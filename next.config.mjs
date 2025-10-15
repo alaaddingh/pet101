@@ -1,6 +1,4 @@
-import type { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+const nextConfig = {
   images: {
     // Allow the sources used in pets, spells, abilities
     remotePatterns: [
