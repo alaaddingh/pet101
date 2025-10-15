@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "Pain-Bringer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/98/%28Talent%29_Pain-Bringer.png",
+    "source": "https://web.archive.org/web/20250802033138id_/https://wiki.wizard101central.com/wiki/PetAbility:Pain-Bringer",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Uncommon",
+    "icon": null,
+    "source": "https://web.archive.org/web/20250804181935id_/https://wiki.wizard101central.com/wiki/PetAbility:Uncommon",
+    "rarity": null
+  },
+  {
+    "name": "Durable",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/41/%28Talent%29_Durable.png",
+    "source": "https://web.archive.org/web/20250910020625id_/https://wiki.wizard101central.com/wiki/PetAbility:Durable",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ultra-Rare",
+    "icon": null,
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Ultra-Rare",
+    "rarity": null
+  },
+  {
+    "name": "Health Gift",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/db/%28Talent%29_Health_Gift.png",
+    "source": "https://web.archive.org/web/20250904032500id_/https://wiki.wizard101central.com/wiki/PetAbility:Health_Gift",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Spiritual Retriever",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/36/%28Talent%29_Spiritual_Retriever.png",
+    "source": "https://web.archive.org/web/20250905170245id_/https://wiki.wizard101central.com/wiki/PetAbility:Spiritual_Retriever",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Myth-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/63/%28Talent%29_Myth-Dealer.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Move It!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/63/%28Derby%29_Move_It%21.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Move_It!",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bomber",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6b/%28Derby%29_Bomber.png",
+    "source": "https://web.archive.org/web/20240830120159id_/https://wiki.wizard101central.com/wiki/PetAbility:Bomber",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mega-Leech",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cb/%28Derby%29_Mega-Leech.png",
+    "source": "https://web.archive.org/web/20250804182005id_/https://wiki.wizard101central.com/wiki/PetAbility:Mega-Leech",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Epic",
+    "icon": null,
+    "source": "https://web.archive.org/web/20250804181935id_/https://wiki.wizard101central.com/wiki/PetAbility:Epic",
+    "rarity": null
+  },
+  {
+    "name": "Super-Lock",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/26/%28Derby%29_Super-Lock.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Super-Lock",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Rare",
+    "icon": null,
+    "source": "https://web.archive.org/web/20250911002350id_/https://wiki.wizard101central.com/wiki/PetAbility:Rare",
+    "rarity": null
+  },
+  {
+    "name": "Pipe Down!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f8/%28Derby%29_Pipe_Down%21.png",
+    "source": "https://web.archive.org/web/20250903172211id_/https://wiki.wizard101central.com/wiki/PetAbility:Pipe_Down!",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Big Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/31/%28Derby%29_Big_Boost.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Boost",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Stun Resistant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a5/%28Talent%29_Stun_Resistant.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Stun_Resistant",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Storm Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/af/%28Talent%29_Storm_Assailant.png",
+    "source": "https://web.archive.org/web/20240409061118id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Disarmament",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f5/%28Talent%29_Disarmament.png",
+    "source": "https://web.archive.org/web/20240314122107id_/https://wiki.wizard101central.com/wiki/PetAbility:Disarmament",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Storm-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d0/%28Talent%29_Storm-Giver.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ally Thermic Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fb/%28Talent%29_Ally_Thermic_Shield.png",
+    "source": "https://web.archive.org/web/20240409061110id_/https://wiki.wizard101central.com/wiki/PetAbility:Ally_Thermic_Shield",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Armor Breaker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0e/%28Talent%29_Armor_Breaker.png",
+    "source": "https://web.archive.org/web/20240214173716id_/https://wiki.wizard101central.com/wiki/PetAbility:Armor_Breaker",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Common",
+    "icon": null,
+    "source": "https://web.archive.org/web/20250804182005id_/https://wiki.wizard101central.com/wiki/PetAbility:Common",
+    "rarity": null
+  },
+  {
+    "name": "Wipeout",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b1/%28Derby%29_Wipeout.png",
+    "source": "https://web.archive.org/web/20240409061126id_/https://wiki.wizard101central.com/wiki/PetAbility:Wipeout",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Super Delay",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4f/%28Derby%29_Super_Delay.png",
+    "source": "https://web.archive.org/web/20241207052650id_/https://wiki.wizard101central.com/wiki/PetAbility:Super_Delay",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Exhaust",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e5/%28Derby%29_Exhaust.png",
+    "source": "https://web.archive.org/web/20240409061145id_/https://wiki.wizard101central.com/wiki/PetAbility:Exhaust",
+    "rarity": "Common"
+  },
+  {
+    "name": "Stumble",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a4/%28Derby%29_Stumble.png",
+    "source": "https://web.archive.org/web/20240214172852id_/https://wiki.wizard101central.com/wiki/PetAbility:Stumble",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Leech",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3a/%28Derby%29_Leech.png",
+    "source": "https://web.archive.org/web/20250903230755id_/https://wiki.wizard101central.com/wiki/PetAbility:Leech",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Mega-Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/47/%28Derby%29_Mega-Boost.png",
+    "source": "https://web.archive.org/web/20250911120457id_/https://wiki.wizard101central.com/wiki/PetAbility:Mega-Boost",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Piercemonger",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a1/%28Talent%29_Piercemonger.png",
+    "source": "https://web.archive.org/web/20240308083943id_/https://wiki.wizard101central.com/wiki/PetAbility:Piercemonger",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Myth Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/df/%28Talent%29_Myth_Assailant.png",
+    "source": "https://web.archive.org/web/20240409061145id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Determined",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d0/%28Talent%29_Determined.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Determined",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Myth-Sniper",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c7/%28Talent%29_Myth-Sniper.png",
+    "source": "https://web.archive.org/web/20240409061152id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Sniper",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Befuddle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b3/%28Derby%29_Befuddle.png",
+    "source": "https://web.archive.org/web/20240905214323id_/https://wiki.wizard101central.com/wiki/PetAbility:Befuddle",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Unbreakable",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e0/%28Derby%29_Unbreakable.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Unbreakable",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Super Hurry",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/10/%28Derby%29_Super_Hurry.png",
+    "source": "https://web.archive.org/web/20240409061123id_/https://wiki.wizard101central.com/wiki/PetAbility:Super_Hurry",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Pip O'Plenty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/25/%28Talent%29_Pip_O'Plenty.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Pip_O'Plenty",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Stun Recalcitrant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4e/%28Talent%29_Stun_Recalcitrant.png",
+    "source": "https://web.archive.org/web/20240409061154id_/https://wiki.wizard101central.com/wiki/PetAbility:Stun_Recalcitrant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Death-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/44/%28Talent%29_Death-Shot.png",
+    "source": "https://web.archive.org/web/20240214173019id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tenacious",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ac/%28Talent%29_Tenacious.png",
+    "source": "https://web.archive.org/web/20250907160424id_/https://wiki.wizard101central.com/wiki/PetAbility:Tenacious",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Critical Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0d/%28Talent%29_Critical_Striker.png",
+    "source": "https://web.archive.org/web/20241126084401id_/https://wiki.wizard101central.com/wiki/PetAbility:Critical_Striker",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Health Bounty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1e/%28Talent%29_Health_Bounty.png",
+    "source": "https://web.archive.org/web/20240409061112id_/https://wiki.wizard101central.com/wiki/PetAbility:Health_Bounty",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9c/%28Talent%29_Death-Dealer.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Mana Bounty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/99/%28Talent%29_Mana_Bounty.png",
+    "source": "https://web.archive.org/web/20240409061105id_/https://wiki.wizard101central.com/wiki/PetAbility:Mana_Bounty",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Clear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5e/%28Derby%29_Clear.png",
+    "source": "https://web.archive.org/web/20250804182258id_/https://wiki.wizard101central.com/wiki/PetAbility:Clear",
+    "rarity": "Common"
+  },
+  {
+    "name": "Musical Lane",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9c/%28Derby%29_Musical_Lane.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Musical_Lane",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bananas!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7f/%28Derby%29_Bananas%21.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Bananas!",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Enfeeblement",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/87/%28Derby%29_Enfeeblement.png",
+    "source": "https://web.archive.org/web/20240409061114id_/https://wiki.wizard101central.com/wiki/PetAbility:Enfeeblement",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Eat My Dust",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/99/%28Derby%29_Eat_My_Dust.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Eat_My_Dust",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Myth-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c2/%28Talent%29_Myth-Giver.png",
+    "source": "https://web.archive.org/web/20250804182302id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Mana Gift",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/92/%28Talent%29_Mana_Gift.png",
+    "source": "https://web.archive.org/web/20240915212227id_/https://wiki.wizard101central.com/wiki/PetAbility:Mana_Gift",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Myth-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cf/%28Talent%29_Myth-Proof.png",
+    "source": "https://web.archive.org/web/20240205172355id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Crafty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/68/%28Talent%29_Crafty.png",
+    "source": "https://web.archive.org/web/20240308085024id_/https://wiki.wizard101central.com/wiki/PetAbility:Crafty",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Spirited",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b7/%28Talent%29_Spirited.png",
+    "source": "https://web.archive.org/web/20250904181910id_/https://wiki.wizard101central.com/wiki/PetAbility:Spirited",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Myth-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/13/%28Talent%29_Myth-Shot.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Slick-N-Slide",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8d/%28Derby%29_Slick-N-Slide.png",
+    "source": "https://web.archive.org/web/20250908084227id_/https://wiki.wizard101central.com/wiki/PetAbility:Slick-N-Slide",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Spiffy-Pop",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/95/%28Derby%29_Spiffy-Pop.png",
+    "source": "https://web.archive.org/web/20250906123759id_/https://wiki.wizard101central.com/wiki/PetAbility:Spiffy-Pop",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Rally",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/42/%28Derby%29_Rally.png",
+    "source": "https://web.archive.org/web/20240409061129id_/https://wiki.wizard101central.com/wiki/PetAbility:Rally",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Lock",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/02/%28Derby%29_Lock.png",
+    "source": "https://web.archive.org/web/20240409061208id_/https://wiki.wizard101central.com/wiki/PetAbility:Lock",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Immunity",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/83/%28Derby%29_Immunity.png",
+    "source": "https://web.archive.org/web/20250804182301id_/https://wiki.wizard101central.com/wiki/PetAbility:Immunity",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Big Hurry",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/85/%28Derby%29_Big_Hurry.png",
+    "source": "https://web.archive.org/web/20250903064425id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Hurry",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Astute",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/31/%28Talent%29_Astute.png",
+    "source": "https://web.archive.org/web/20240308085029id_/https://wiki.wizard101central.com/wiki/PetAbility:Astute",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Storm-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/80/%28Talent%29_Storm-Proof.png",
+    "source": "https://web.archive.org/web/20240830085834id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Stonewall",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/af/%28Derby%29_Stonewall.png",
+    "source": "https://web.archive.org/web/20240409061149id_/https://wiki.wizard101central.com/wiki/PetAbility:Stonewall",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Stumble On",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b1/%28Derby%29_Stumble_On.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Stumble_On",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Shh!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d1/%28Derby%29_Shh%21.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Shh!",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Unbalancer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e2/%28Talent%29_Unbalancer.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Unbalancer",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Careful",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/79/%28Talent%29_Careful.png",
+    "source": "https://web.archive.org/web/20240409061123id_/https://wiki.wizard101central.com/wiki/PetAbility:Careful",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Banana Peel",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cd/%28Derby%29_Banana_Peel.png",
+    "source": "https://web.archive.org/web/20240915215013id_/https://wiki.wizard101central.com/wiki/PetAbility:Banana_Peel",
+    "rarity": "Common"
+  },
+  {
+    "name": "Super-Pass",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/16/%28Derby%29_Super-Pass.png",
+    "source": "https://web.archive.org/web/20240910035714id_/https://wiki.wizard101central.com/wiki/PetAbility:Super-Pass",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Clear Path",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d2/%28Derby%29_Clear_Path.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Clear_Path",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Fire-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5e/%28Talent%29_Fire-Shot.png",
+    "source": "https://web.archive.org/web/20250911014838id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Intuitive",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e7/%28Talent%29_Intuitive.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Intuitive",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Elemental Retriever",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0e/%28Talent%29_Elemental_Retriever.png",
+    "source": "https://web.archive.org/web/20240830013406id_/https://wiki.wizard101central.com/wiki/PetAbility:Elemental_Retriever",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Fire-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6e/%28Talent%29_Fire-Dealer.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Big-Check",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c4/%28Derby%29_Big-Check.png",
+    "source": "https://web.archive.org/web/20240121110616id_/https://wiki.wizard101central.com/wiki/PetAbility:Big-Check",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Perplex",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ab/%28Derby%29_Perplex.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Perplex",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Restorative",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a6/%28Derby%29_Restorative.png",
+    "source": "https://web.archive.org/web/20240409061119id_/https://wiki.wizard101central.com/wiki/PetAbility:Restorative",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Charge Up",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/12/%28Derby%29_Charge_Up.png",
+    "source": "https://web.archive.org/web/20240409061201id_/https://wiki.wizard101central.com/wiki/PetAbility:Charge_Up",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Stall",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/36/%28Derby%29_Stall.png",
+    "source": "https://web.archive.org/web/20250804182302id_/https://wiki.wizard101central.com/wiki/PetAbility:Stall",
+    "rarity": "Common"
+  },
+  {
+    "name": "Vigilant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d4/%28Talent%29_Vigilant.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Vigilant",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ice-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/60/%28Talent%29_Ice-Giver.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ice-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a6/%28Talent%29_Ice-Proof.png",
+    "source": "https://web.archive.org/web/20240409061152id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ice-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3b/%28Talent%29_Ice-Shot.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Catch",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5e/%28Derby%29_Catch.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Catch",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Big Drain",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/69/%28Derby%29_Big_Drain.png",
+    "source": "https://web.archive.org/web/20250804182226id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Drain",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pain-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/04/%28Talent%29_Pain-Giver.png",
+    "source": "https://web.archive.org/web/20250907173219id_/https://wiki.wizard101central.com/wiki/PetAbility:Pain-Giver",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Eager",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/80/%28Talent%29_Eager.png",
+    "source": "https://web.archive.org/web/20240915214956id_/https://wiki.wizard101central.com/wiki/PetAbility:Eager",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Rugged",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/30/%28Talent%29_Rugged.png",
+    "source": "https://web.archive.org/web/20240409061152id_/https://wiki.wizard101central.com/wiki/PetAbility:Rugged",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Canny",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/59/%28Talent%29_Canny.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Canny",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Galvanic Field",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0c/%28Talent%29_Galvanic_Field.png",
+    "source": "https://web.archive.org/web/20240829112512id_/https://wiki.wizard101central.com/wiki/PetAbility:Galvanic_Field",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Storm-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9b/%28Talent%29_Storm-Ward.png",
+    "source": "https://web.archive.org/web/20240829155249id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Storm-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4f/%28Talent%29_Storm-Dealer.png",
+    "source": "https://web.archive.org/web/20250806122657id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Freeze Frame",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/10/%28Derby%29_Freeze_Frame.png",
+    "source": "https://web.archive.org/web/20240829150404id_/https://wiki.wizard101central.com/wiki/PetAbility:Freeze_Frame",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Dead End",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b8/%28Derby%29_Dead_End.png",
+    "source": "https://web.archive.org/web/20250804182302id_/https://wiki.wizard101central.com/wiki/PetAbility:Dead_End",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "No Passing",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/27/%28Derby%29_No_Passing.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:No_Passing",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Big Downer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/95/%28Derby%29_Big_Downer.png",
+    "source": "https://web.archive.org/web/20240915212459id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Downer",
+    "rarity": "Common"
+  },
+  {
+    "name": "Efficient",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b6/%28Talent%29_Efficient.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Efficient",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Well Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4c/%28Talent%29_Well_Trained.png",
+    "source": "https://web.archive.org/web/20240319212241id_/https://wiki.wizard101central.com/wiki/PetAbility:Well_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Spell-Defying",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e8/%28Talent%29_Spell-Defying.png",
+    "source": "https://web.archive.org/web/20250912042940id_/https://wiki.wizard101central.com/wiki/PetAbility:Spell-Defying",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Oil Slick",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/13/%28Derby%29_Oil_Slick.png",
+    "source": "https://web.archive.org/web/20250907005905id_/https://wiki.wizard101central.com/wiki/PetAbility:Oil_Slick",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Check",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/05/%28Derby%29_Check.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Check",
+    "rarity": "Common"
+  },
+  {
+    "name": "Distract",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3f/%28Derby%29_Distract.png",
+    "source": "https://web.archive.org/web/20250804182048id_/https://wiki.wizard101central.com/wiki/PetAbility:Distract",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Baffle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/49/%28Derby%29_Baffle.png",
+    "source": "https://web.archive.org/web/20250907150154id_/https://wiki.wizard101central.com/wiki/PetAbility:Baffle",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Silence",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fb/%28Derby%29_Silence.png",
+    "source": "https://web.archive.org/web/20250904132113id_/https://wiki.wizard101central.com/wiki/PetAbility:Silence",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Guardian Wall",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9d/%28Talent%29_Guardian_Wall.png",
+    "source": "https://web.archive.org/web/20240822150436id_/https://wiki.wizard101central.com/wiki/PetAbility:Guardian_Wall",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Think Fast!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1c/%28Derby%29_Think_Fast%21.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Think_Fast!",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Super-Stall",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e0/%28Derby%29_Super-Stall.png",
+    "source": "https://web.archive.org/web/20250804182241id_/https://wiki.wizard101central.com/wiki/PetAbility:Super-Stall",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Hurry",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/85/%28Derby%29_Hurry.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Hurry",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Mana Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c7/%28Talent%29_Mana_Boost.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Mana_Boost",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Charge",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/75/%28Derby%29_Charge.png",
+    "source": "https://web.archive.org/web/20240409061201id_/https://wiki.wizard101central.com/wiki/PetAbility:Charge",
+    "rarity": "Common"
+  },
+  {
+    "name": "Eat My Dirt",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/19/%28Derby%29_Eat_My_Dirt.png",
+    "source": "https://web.archive.org/web/20240409061122id_/https://wiki.wizard101central.com/wiki/PetAbility:Eat_My_Dirt",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Super-Dizzy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9b/%28Derby%29_Super-Dizzy.png",
+    "source": "https://web.archive.org/web/20241126092824id_/https://wiki.wizard101central.com/wiki/PetAbility:Super-Dizzy",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Steadfast",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/86/%28Talent%29_Steadfast.png",
+    "source": "https://web.archive.org/web/20240915212459id_/https://wiki.wizard101central.com/wiki/PetAbility:Steadfast",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Overtake",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/17/%28Derby%29_Overtake.png",
+    "source": "https://web.archive.org/web/20250804182302id_/https://wiki.wizard101central.com/wiki/PetAbility:Overtake",
+    "rarity": "Common"
+  },
+  {
+    "name": "Downer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/72/%28Derby%29_Downer.png",
+    "source": "https://web.archive.org/web/20240409061201id_/https://wiki.wizard101central.com/wiki/PetAbility:Downer",
+    "rarity": "Common"
+  },
+  {
+    "name": "Disconcert",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1c/%28Derby%29_Disconcert.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Disconcert",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Killjoy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/64/%28Derby%29_Killjoy.png",
+    "source": "https://web.archive.org/web/20240409061141id_/https://wiki.wizard101central.com/wiki/PetAbility:Killjoy",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Defender",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0c/%28Talent%29_Defender.png",
+    "source": "https://web.archive.org/web/20250906023631id_/https://wiki.wizard101central.com/wiki/PetAbility:Defender",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Balance Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d9/%28Talent%29_Balance_Assailant.png",
+    "source": "https://web.archive.org/web/20240214173135id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Balance-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/07/%28Talent%29_Balance-Dealer.png",
+    "source": "https://web.archive.org/web/20240910125342id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Spell-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ed/%28Talent%29_Spell-Proof.png",
+    "source": "https://web.archive.org/web/20241206042155id_/https://wiki.wizard101central.com/wiki/PetAbility:Spell-Proof",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Life-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a2/%28Talent%29_Life-Proof.png",
+    "source": "https://web.archive.org/web/20240905215557id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Death-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9a/%28Talent%29_Death-Proof.png",
+    "source": "https://web.archive.org/web/20250903183650id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Lively",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/55/%28Talent%29_Lively.png",
+    "source": "https://web.archive.org/web/20240205171356id_/https://wiki.wizard101central.com/wiki/PetAbility:Lively",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Balance-Sniper",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ea/%28Talent%29_Balance-Sniper.png",
+    "source": "https://web.archive.org/web/20240909225304id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance-Sniper",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Slow Motion",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/72/%28Derby%29_Slow_Motion.png",
+    "source": "https://web.archive.org/web/20240409061115id_/https://wiki.wizard101central.com/wiki/PetAbility:Slow_Motion",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sideswipe",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/48/%28Derby%29_Sideswipe.png",
+    "source": "https://web.archive.org/web/20240409061108id_/https://wiki.wizard101central.com/wiki/PetAbility:Sideswipe",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Scoot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b5/%28Derby%29_Scoot.png",
+    "source": "https://web.archive.org/web/20240409061122id_/https://wiki.wizard101central.com/wiki/PetAbility:Scoot",
+    "rarity": "Common"
+  },
+  {
+    "name": "Restore",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4b/%28Derby%29_Restore.png",
+    "source": "https://web.archive.org/web/20250907164736id_/https://wiki.wizard101central.com/wiki/PetAbility:Restore",
+    "rarity": "Common"
+  },
+  {
+    "name": "Slowpoke",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a7/%28Derby%29_Slowpoke.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Slowpoke",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Fire-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/39/%28Talent%29_Fire-Giver.png",
+    "source": "https://web.archive.org/web/20240308085047id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Fire-Proof",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d5/%28Talent%29_Fire-Proof.png",
+    "source": "https://web.archive.org/web/20240409061127id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Proof",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Quick-Witted",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9e/%28Talent%29_Quick-Witted.png",
+    "source": "https://web.archive.org/web/20240906005201id_/https://wiki.wizard101central.com/wiki/PetAbility:Quick-Witted",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Effervescent",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9b/%28Talent%29_Effervescent.png",
+    "source": "https://web.archive.org/web/20240915215029id_/https://wiki.wizard101central.com/wiki/PetAbility:Effervescent",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Siphon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/81/%28Derby%29_Siphon.png",
+    "source": "https://web.archive.org/web/20240409061149id_/https://wiki.wizard101central.com/wiki/PetAbility:Siphon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Vengeance",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5e/%28Talent%29_Vengeance.png",
+    "source": "https://web.archive.org/web/20240308085227id_/https://wiki.wizard101central.com/wiki/PetAbility:Vengeance",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Spritely",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8a/%28Talent%29_Spritely.png",
+    "source": "https://web.archive.org/web/20240409061117id_/https://wiki.wizard101central.com/wiki/PetAbility:Spritely",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Curse",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bd/%28Talent%29_Curse.png",
+    "source": "https://web.archive.org/web/20240308085229id_/https://wiki.wizard101central.com/wiki/PetAbility:Curse",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Bombardier",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2e/%28Derby%29_Bombardier.png",
+    "source": "https://web.archive.org/web/20240915213014id_/https://wiki.wizard101central.com/wiki/PetAbility:Bombardier",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f7/%28Derby%29_Sap.png",
+    "source": "https://web.archive.org/web/20240214173035id_/https://wiki.wizard101central.com/wiki/PetAbility:Sap",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Supercharge",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/68/%28Derby%29_Supercharge.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Supercharge",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Life-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/65/%28Talent%29_Life-Giver.png",
+    "source": "https://web.archive.org/web/20240915212928id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Life-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6b/%28Talent%29_Life-Shot.png",
+    "source": "https://web.archive.org/web/20240915213621id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Gifted",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Gifted.png",
+    "source": "https://web.archive.org/web/20240308085044id_/https://wiki.wizard101central.com/wiki/PetAbility:Gifted",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Medic",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ee/%28Talent%29_Medic.png",
+    "source": "https://web.archive.org/web/20240409061150id_/https://wiki.wizard101central.com/wiki/PetAbility:Medic",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Clay Post",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f8/%28Derby%29_Clay_Post.png",
+    "source": "https://web.archive.org/web/20240214173208id_/https://wiki.wizard101central.com/wiki/PetAbility:Clay_Post",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Recovery",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/69/%28Derby%29_Recovery.png",
+    "source": "https://web.archive.org/web/20250911223150id_/https://wiki.wizard101central.com/wiki/PetAbility:Recovery",
+    "rarity": "Common"
+  },
+  {
+    "name": "Effective",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5f/%28Talent%29_Effective.png",
+    "source": "https://web.archive.org/web/20240214173100id_/https://wiki.wizard101central.com/wiki/PetAbility:Effective",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Gold Rusher",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/08/%28Talent%29_Gold_Rusher.png",
+    "source": "https://web.archive.org/web/20240409061149id_/https://wiki.wizard101central.com/wiki/PetAbility:Gold_Rusher",
+    "rarity": "Common"
+  },
+  {
+    "name": "Bummer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7b/%28Derby%29_Bummer.png",
+    "source": "https://web.archive.org/web/20240409061144id_/https://wiki.wizard101central.com/wiki/PetAbility:Bummer",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Flummox",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/72/%28Derby%29_Flummox.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Flummox",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Virulence",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a7/%28Talent%29_Virulence.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Virulence",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Mute",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ae/%28Derby%29_Mute.png",
+    "source": "https://web.archive.org/web/20241126072723id_/https://wiki.wizard101central.com/wiki/PetAbility:Mute",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Dumbfound",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c2/%28Derby%29_Dumbfound.png",
+    "source": "https://web.archive.org/web/20240409061205id_/https://wiki.wizard101central.com/wiki/PetAbility:Dumbfound",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Big Rally",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/18/%28Derby%29_Big_Rally.png",
+    "source": "https://web.archive.org/web/20240409061106id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Rally",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Health Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Health_Boost.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Health_Boost",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Myth Scout",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9d/%28Talent%29_Myth_Scout.png",
+    "source": "https://web.archive.org/web/20250910150104id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Scout",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Enfeeble",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/21/%28Derby%29_Enfeeble.png",
+    "source": "https://web.archive.org/web/20250904224920id_/https://wiki.wizard101central.com/wiki/PetAbility:Enfeeble",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Mega-Deplete",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/95/%28Derby%29_Mega-Deplete.png",
+    "source": "https://web.archive.org/web/20240308084149id_/https://wiki.wizard101central.com/wiki/PetAbility:Mega-Deplete",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Balance-It",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6e/%28Talent%29_Balance-It.png",
+    "source": "https://web.archive.org/web/20240409061149id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance-It",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Grass Post",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1d/%28Derby%29_Grass_Post.png",
+    "source": "https://web.archive.org/web/20240409061116id_/https://wiki.wizard101central.com/wiki/PetAbility:Grass_Post",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Death Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2c/%28Talent%29_Death_Striker.png",
+    "source": "https://web.archive.org/web/20240409061102id_/https://wiki.wizard101central.com/wiki/PetAbility:Death_Striker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Deathspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/74/%28Talent%29_Deathspear.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Deathspear",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Death-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/43/%28Talent%29_Death-Ward.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Super-Sap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2e/%28Derby%29_Super-Sap.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Super-Sap",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5b/%28Talent%29_Death-Giver.png",
+    "source": "https://web.archive.org/web/20240906180622id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Storm Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b3/%28Talent%29_Storm_Shield.png",
+    "source": "https://web.archive.org/web/20240409061059id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm_Shield",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Dirt Post",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/73/%28Derby%29_Dirt_Post.png",
+    "source": "https://web.archive.org/web/20240409061115id_/https://wiki.wizard101central.com/wiki/PetAbility:Dirt_Post",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Stupefy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1d/%28Derby%29_Stupefy.png",
+    "source": "https://web.archive.org/web/20250902220906id_/https://wiki.wizard101central.com/wiki/PetAbility:Stupefy",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Balancespear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e6/%28Talent%29_Balancespear.png",
+    "source": "https://web.archive.org/web/20240910063511id_/https://wiki.wizard101central.com/wiki/PetAbility:Balancespear",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Sword and Shield!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ee/%28Talent%29_Sword_and_Shield%21.png",
+    "source": "https://web.archive.org/web/20240409061114id_/https://wiki.wizard101central.com/wiki/PetAbility:Sword_and_Shield!",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Shush!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fd/%28Derby%29_Shush%21.png",
+    "source": "https://web.archive.org/web/20240409061115id_/https://wiki.wizard101central.com/wiki/PetAbility:Shush!",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Balance Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/59/%28Talent%29_Balance_Striker.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance_Striker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Balance-Giver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b3/%28Talent%29_Balance-Giver.png",
+    "source": "https://web.archive.org/web/20240409061110id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance-Giver",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Critical Hitter",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/aa/%28Talent%29_Critical_Hitter.png",
+    "source": "https://web.archive.org/web/20241206163746id_/https://wiki.wizard101central.com/wiki/PetAbility:Critical_Hitter",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Defender's Rampart",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7b/%28Talent%29_Defender's_Rampart.png",
+    "source": "https://web.archive.org/web/20240907002726id_/https://wiki.wizard101central.com/wiki/PetAbility:Defender's_Rampart",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Black Mantle Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/67/%28Talent%29_Black_Mantle_Trained.png",
+    "source": "https://web.archive.org/web/20250215125819id_/https://wiki.wizard101central.com/wiki/PetAbility:Black_Mantle_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Myth Finder",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cf/%28Talent%29_Myth_Finder.png",
+    "source": "https://web.archive.org/web/20240409061119id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Finder",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Myth-Boon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b5/%28Talent%29_Myth-Boon.png",
+    "source": "https://web.archive.org/web/20240421001735id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Boon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ultra Mute",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c6/%28Derby%29_Ultra_Mute.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Ultra_Mute",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deplete",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8e/%28Derby%29_Deplete.png",
+    "source": "https://web.archive.org/web/20250804182214id_/https://wiki.wizard101central.com/wiki/PetAbility:Deplete",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Life-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8c/%28Talent%29_Life-Ward.png",
+    "source": "https://web.archive.org/web/20240214173349id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Myth Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d8/%28Talent%29_Myth_Trap.png",
+    "source": "https://web.archive.org/web/20240409061146id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Trap",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Catch Leader",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/13/%28Derby%29_Catch_Leader.png",
+    "source": "https://web.archive.org/web/20240909203323id_/https://wiki.wizard101central.com/wiki/PetAbility:Catch_Leader",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Life Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/dc/%28Talent%29_Life_Assailant.png",
+    "source": "https://web.archive.org/web/20240409061156id_/https://wiki.wizard101central.com/wiki/PetAbility:Life_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Wise",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/24/%28Talent%29_Wise.png",
+    "source": "https://web.archive.org/web/20240409061124id_/https://wiki.wizard101central.com/wiki/PetAbility:Wise",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sharp",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Sharp.png",
+    "source": "https://web.archive.org/web/20240409061100id_/https://wiki.wizard101central.com/wiki/PetAbility:Sharp",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Life-Eye",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/75/%28Talent%29_Life-Eye.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Eye",
+    "rarity": "Common"
+  },
+  {
+    "name": "Hearty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c7/%28Talent%29_Hearty.png",
+    "source": "https://web.archive.org/web/20250914122808id_/https://wiki.wizard101central.com/wiki/PetAbility:Hearty",
+    "rarity": "Common"
+  },
+  {
+    "name": "Life-Bringer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/77/%28Talent%29_Life-Bringer.png",
+    "source": "https://web.archive.org/web/20240409061154id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Bringer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Big Recovery",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/91/%28Derby%29_Big_Recovery.png",
+    "source": "https://web.archive.org/web/20240409061108id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Recovery",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Deathblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d8/%28Talent%29_Deathblade.png",
+    "source": "https://web.archive.org/web/20240409061112id_/https://wiki.wizard101central.com/wiki/PetAbility:Deathblade",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Dashing",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9b/%28Talent%29_Dashing.png",
+    "source": "https://web.archive.org/web/20250903150730id_/https://wiki.wizard101central.com/wiki/PetAbility:Dashing",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Tireless",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bb/%28Talent%29_Tireless.png",
+    "source": "https://web.archive.org/web/20250904031722id_/https://wiki.wizard101central.com/wiki/PetAbility:Tireless",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cunning",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/97/%28Talent%29_Cunning.png",
+    "source": "https://web.archive.org/web/20240409061119id_/https://wiki.wizard101central.com/wiki/PetAbility:Cunning",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Perceptive",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Perceptive.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Perceptive",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Balance-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/56/%28Talent%29_Balance-Ward.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Balance-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Weaken",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8b/%28Derby%29_Weaken.png",
+    "source": "https://web.archive.org/web/20240409061117id_/https://wiki.wizard101central.com/wiki/PetAbility:Weaken",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Fishing Luck",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2e/%28Talent%29_Fishing_Luck.png",
+    "source": "https://web.archive.org/web/20250716201320id_/https://wiki.wizard101central.com/wiki/PetAbility:Fishing_Luck",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Dependable",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6e/%28Talent%29_Dependable.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Dependable",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Storm-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0e/%28Talent%29_Storm-Shot.png",
+    "source": "https://web.archive.org/web/20240308084204id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Shot",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Pierce Train",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/54/%28Talent%29_Pierce_Train.png",
+    "source": "https://web.archive.org/web/20240308085152id_/https://wiki.wizard101central.com/wiki/PetAbility:Pierce_Train",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Ice-Dealer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/47/%28Talent%29_Ice-Dealer.png",
+    "source": "https://web.archive.org/web/20240308084222id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Dealer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Dogged",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/78/%28Talent%29_Dogged.png",
+    "source": "https://web.archive.org/web/20250907222448id_/https://wiki.wizard101central.com/wiki/PetAbility:Dogged",
+    "rarity": "Common"
+  },
+  {
+    "name": "Calculating",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/71/%28Talent%29_Calculating.png",
+    "source": "https://web.archive.org/web/20240409061124id_/https://wiki.wizard101central.com/wiki/PetAbility:Calculating",
+    "rarity": "Common"
+  },
+  {
+    "name": "Drop It",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/11/%28Talent%29_Drop_It.png",
+    "source": "https://web.archive.org/web/20250722070743id_/https://wiki.wizard101central.com/wiki/PetAbility:Drop_It",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Storm Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/71/%28Talent%29_Storm_Striker.png",
+    "source": "https://web.archive.org/web/20240829114546id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm_Striker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Stop Leader",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8d/%28Derby%29_Stop_Leader.png",
+    "source": "https://web.archive.org/web/20240214174226id_/https://wiki.wizard101central.com/wiki/PetAbility:Stop_Leader",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ice-Away",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b7/%28Talent%29_Ice-Away.png",
+    "source": "https://web.archive.org/web/20240308084739id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Away",
+    "rarity": "Common"
+  },
+  {
+    "name": "Add Health",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/46/%28Talent%29_Add_Health.png",
+    "source": "https://web.archive.org/web/20250904103631id_/https://wiki.wizard101central.com/wiki/PetAbility:Add_Health",
+    "rarity": "Common"
+  },
+  {
+    "name": "Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/17/%28Derby%29_Boost.png",
+    "source": "https://web.archive.org/web/20250905152227id_/https://wiki.wizard101central.com/wiki/PetAbility:Boost",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sturdy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/34/%28Talent%29_Sturdy.png",
+    "source": "https://web.archive.org/web/20240308084045id_/https://wiki.wizard101central.com/wiki/PetAbility:Sturdy",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Extra Mana",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e4/%28Talent%29_Extra_Mana.png",
+    "source": "https://web.archive.org/web/20240214173102id_/https://wiki.wizard101central.com/wiki/PetAbility:Extra_Mana",
+    "rarity": "Common"
+  },
+  {
+    "name": "Fire Scout",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5b/%28Talent%29_Fire_Scout.png",
+    "source": "https://web.archive.org/web/20241204013631id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire_Scout",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Stalwart",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4e/%28Talent%29_Stalwart.png",
+    "source": "https://web.archive.org/web/20240308083911id_/https://wiki.wizard101central.com/wiki/PetAbility:Stalwart",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Big Energy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7e/%28Talent%29_Big_Energy.png",
+    "source": "https://web.archive.org/web/20250804182039id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Energy",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Intrepid",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1b/%28Talent%29_Intrepid.png",
+    "source": "https://web.archive.org/web/20240214173309id_/https://wiki.wizard101central.com/wiki/PetAbility:Intrepid",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Fire Finder",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f6/%28Talent%29_Fire_Finder.png",
+    "source": "https://web.archive.org/web/20240214173101id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire_Finder",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Epic Fishing Luck",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9d/%28Talent%29_Epic_Fishing_Luck.png",
+    "source": "https://web.archive.org/web/20250716195846id_/https://wiki.wizard101central.com/wiki/PetAbility:Epic_Fishing_Luck",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Attentive",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/76/%28Talent%29_Attentive.png",
+    "source": "https://web.archive.org/web/20240205172350id_/https://wiki.wizard101central.com/wiki/PetAbility:Attentive",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ice-Eye",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f9/%28Talent%29_Ice-Eye.png",
+    "source": "https://web.archive.org/web/20240409061145id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Eye",
+    "rarity": "Common"
+  },
+  {
+    "name": "Pip Boost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a4/%28Talent%29_Pip_Boost.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/PetAbility:Pip_Boost",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Armor Piercer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/02/%28Talent%29_Armor_Piercer.png",
+    "source": "https://web.archive.org/web/20240409061106id_/https://wiki.wizard101central.com/wiki/PetAbility:Armor_Piercer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Frozen Kraken Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/28/%28Talent%29_Frozen_Kraken_Trained.png",
+    "source": "https://web.archive.org/web/20250801092047id_/https://wiki.wizard101central.com/wiki/PetAbility:Frozen_Kraken_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Drain",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/49/%28Derby%29_Drain.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Drain",
+    "rarity": "Common"
+  },
+  {
+    "name": "Exhausted",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/dc/%28Derby%29_Exhausted.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Exhausted",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cheeky",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/03/%28Talent%29_Cheeky.png",
+    "source": "https://web.archive.org/web/20240907005151id_/https://wiki.wizard101central.com/wiki/PetAbility:Cheeky",
+    "rarity": "Common"
+  },
+  {
+    "name": "Fire-Sniper",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/64/%28Talent%29_Fire-Sniper.png",
+    "source": "https://web.archive.org/web/20240205172341id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Sniper",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ice-Boon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/04/%28Talent%29_Ice-Boon.png",
+    "source": "https://web.archive.org/web/20240409061157id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Boon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Fire Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2e/%28Talent%29_Fire_Assailant.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Ice Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5f/%28Talent%29_Ice_Striker.png",
+    "source": "https://web.archive.org/web/20240409061145id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice_Striker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Siphonizer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5b/%28Derby%29_Siphonizer.png",
+    "source": "https://web.archive.org/web/20240214172905id_/https://wiki.wizard101central.com/wiki/PetAbility:Siphonizer",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Forceful",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8b/%28Talent%29_Forceful.png",
+    "source": "https://web.archive.org/web/20240308085148id_/https://wiki.wizard101central.com/wiki/PetAbility:Forceful",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Sharp-Shot",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Talent%29_Sharp-Shot.png",
+    "source": "https://web.archive.org/web/20240409061106id_/https://wiki.wizard101central.com/wiki/PetAbility:Sharp-Shot",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Blocker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b9/%28Talent%29_Blocker.png",
+    "source": "https://web.archive.org/web/20240910140609id_/https://wiki.wizard101central.com/wiki/PetAbility:Blocker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Incredibly Infallible",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/ca/%28Talent%29_Incredibly_Infallible.png",
+    "source": "https://web.archive.org/web/20240409061124id_/https://wiki.wizard101central.com/wiki/PetAbility:Incredibly_Infallible",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Lifeblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/75/%28Talent%29_Lifeblade.png",
+    "source": "https://web.archive.org/web/20240409061119id_/https://wiki.wizard101central.com/wiki/PetAbility:Lifeblade",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sharp-Eye",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/58/%28Talent%29_Sharp-Eye.png",
+    "source": "https://web.archive.org/web/20240214173134id_/https://wiki.wizard101central.com/wiki/PetAbility:Sharp-Eye",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ice Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2c/%28Talent%29_Ice_Trap.png",
+    "source": "https://web.archive.org/web/20240409061205id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice_Trap",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Huge Rally",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/26/%28Derby%29_Huge_Rally.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Huge_Rally",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Myth Fuel",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/00/%28Talent%29_Myth_Fuel.png",
+    "source": "https://web.archive.org/web/20240621161338id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Fuel",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Giant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/45/%28Talent%29_Giant.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Giant",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Mega Hurry",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6f/%28Derby%29_Mega_Hurry.png",
+    "source": "https://web.archive.org/web/20240409061102id_/https://wiki.wizard101central.com/wiki/PetAbility:Mega_Hurry",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Spirit Armor",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ef/%28Talent%29_Spirit_Armor.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Spirit_Armor",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Magnificent Mender",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f9/%28Talent%29_Magnificent_Mender.png",
+    "source": "https://web.archive.org/web/20240312020701id_/https://wiki.wizard101central.com/wiki/PetAbility:Magnificent_Mender",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Vigorous",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Vigorous.png",
+    "source": "https://web.archive.org/web/20240910203015id_/https://wiki.wizard101central.com/wiki/PetAbility:Vigorous",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Fire Striker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5d/%28Talent%29_Fire_Striker.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire_Striker",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Courageous",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/12/%28Talent%29_Courageous.png",
+    "source": "https://web.archive.org/web/20250906140354id_/https://wiki.wizard101central.com/wiki/PetAbility:Courageous",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Fireblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/59/%28Talent%29_Fireblade.png",
+    "source": "https://web.archive.org/web/20250804181946id_/https://wiki.wizard101central.com/wiki/PetAbility:Fireblade",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Elemental Scout",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d6/%28Talent%29_Elemental_Scout.png",
+    "source": "https://web.archive.org/web/20240409061124id_/https://wiki.wizard101central.com/wiki/PetAbility:Elemental_Scout",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Myth-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5b/%28Talent%29_Myth-Ward.png",
+    "source": "https://web.archive.org/web/20240308083943id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Guiding Light",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d2/%28Talent%29_Guiding_Light.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Guiding_Light",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Relentless",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/08/%28Talent%29_Relentless.png",
+    "source": "https://web.archive.org/web/20240409061114id_/https://wiki.wizard101central.com/wiki/PetAbility:Relentless",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Fire-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/50/%28Talent%29_Fire-Ward.png",
+    "source": "https://web.archive.org/web/20240214174146id_/https://wiki.wizard101central.com/wiki/PetAbility:Fire-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Big Sparky",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/43/%28Talent%29_Big_Sparky.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Big_Sparky",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Dragonblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/55/%28Talent%29_Dragonblade.png",
+    "source": "https://web.archive.org/web/20240317202906id_/https://wiki.wizard101central.com/wiki/PetAbility:Dragonblade",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ultra Rally",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/36/%28Derby%29_Ultra_Rally.png",
+    "source": "https://web.archive.org/web/20250804182215id_/https://wiki.wizard101central.com/wiki/PetAbility:Ultra_Rally",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Myth-Away",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b6/%28Talent%29_Myth-Away.png",
+    "source": "https://web.archive.org/web/20250908133023id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Away",
+    "rarity": "Common"
+  },
+  {
+    "name": "Myth-Eye",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a5/%28Talent%29_Myth-Eye.png",
+    "source": "https://web.archive.org/web/20250907112930id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth-Eye",
+    "rarity": "Common"
+  },
+  {
+    "name": "Halt Leader",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cb/%28Derby%29_Halt_Leader.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Halt_Leader",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Thinkin' Cap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/44/%28Talent%29_Thinkin'_Cap.png",
+    "source": "https://web.archive.org/web/20240409061114id_/https://wiki.wizard101central.com/wiki/PetAbility:Thinkin'_Cap",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death-Boon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2f/%28Talent%29_Death-Boon.png",
+    "source": "https://web.archive.org/web/20240214174227id_/https://wiki.wizard101central.com/wiki/PetAbility:Death-Boon",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mighty",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Talent%29_Mighty.png",
+    "source": "https://web.archive.org/web/20250801194127id_/https://wiki.wizard101central.com/wiki/PetAbility:Mighty",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ultra Hurry",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/04/%28Derby%29_Ultra_Hurry.png",
+    "source": "https://web.archive.org/web/20240214173348id_/https://wiki.wizard101central.com/wiki/PetAbility:Ultra_Hurry",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Tower Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f1/%28Talent%29_Tower_Shield.png",
+    "source": "https://web.archive.org/web/20240409061100id_/https://wiki.wizard101central.com/wiki/PetAbility:Tower_Shield",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Weakenizer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e7/%28Derby%29_Weakenizer.png",
+    "source": "https://web.archive.org/web/20250804182240id_/https://wiki.wizard101central.com/wiki/PetAbility:Weakenizer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death Assailant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/01/%28Talent%29_Death_Assailant.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Death_Assailant",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Fairy Friend",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/49/%28Talent%29_Fairy_Friend.png",
+    "source": "https://web.archive.org/web/20240815003334id_/https://wiki.wizard101central.com/wiki/PetAbility:Fairy_Friend",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Sprite Queen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/25/%28Talent%29_Sprite_Queen.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Sprite_Queen",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c7/%28Talent%29_Death_Shield.png",
+    "source": "https://web.archive.org/web/20240308084551id_/https://wiki.wizard101central.com/wiki/PetAbility:Death_Shield",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Brazen Berserker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9f/%28Talent%29_Brazen_Berserker.png",
+    "source": "https://web.archive.org/web/20230910055713id_/https://wiki.wizard101central.com/wiki/PetAbility:Brazen_Berserker",
+    "rarity": null
+  },
+  {
+    "name": "Time of Legend Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3a/%28Talent%29_Time_of_Legend_Trained.png",
+    "source": "https://web.archive.org/web/20240908154643id_/https://wiki.wizard101central.com/wiki/PetAbility:Time_of_Legend_Trained",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Stormspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f7/%28Talent%29_Stormspear.png",
+    "source": "https://web.archive.org/web/20240829142947id_/https://wiki.wizard101central.com/wiki/PetAbility:Stormspear",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Power-Taker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f0/%28Talent%29_Power-Taker.png",
+    "source": "https://web.archive.org/web/20250905141149id_/https://wiki.wizard101central.com/wiki/PetAbility:Power-Taker",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ankle-Biter",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/eb/%28Talent%29_Ankle-Biter.png",
+    "source": "https://web.archive.org/web/20250804182232id_/https://wiki.wizard101central.com/wiki/PetAbility:Ankle-Biter",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Early Bird",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/84/%28Talent%29_Early_Bird.png",
+    "source": "https://web.archive.org/web/20240409061122id_/https://wiki.wizard101central.com/wiki/PetAbility:Early_Bird",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Firespear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/74/%28Talent%29_Firespear.png",
+    "source": "https://web.archive.org/web/20240308085137id_/https://wiki.wizard101central.com/wiki/PetAbility:Firespear",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Cycle of Life (Dryad)",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b3/%28Talent%29_Cycle_of_Life_%28Dryad%29.png",
+    "source": "https://web.archive.org/web/20240214173345id_/https://wiki.wizard101central.com/wiki/PetAbility:Cycle_of_Life_(Dryad)",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Steal Health",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/39/%28Talent%29_Steal_Health.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Steal_Health",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ally Stun Block",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Talent%29_Ally_Stun_Block.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/PetAbility:Ally_Stun_Block",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Cure Crusher",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/63/%28Talent%29_Cure_Crusher.png",
+    "source": "https://web.archive.org/web/20240409061102id_/https://wiki.wizard101central.com/wiki/PetAbility:Cure_Crusher",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Feinting Spell",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8c/%28Talent%29_Feinting_Spell.png",
+    "source": "https://web.archive.org/web/20240818043612id_/https://wiki.wizard101central.com/wiki/PetAbility:Feinting_Spell",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Life-Sniper",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f8/%28Talent%29_Life-Sniper.png",
+    "source": "https://web.archive.org/web/20240409061108id_/https://wiki.wizard101central.com/wiki/PetAbility:Life-Sniper",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Get Sunbird",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1b/%28Talent%29_Get_Sunbird.png",
+    "source": "https://web.archive.org/web/20240308083951id_/https://wiki.wizard101central.com/wiki/PetAbility:Get_Sunbird",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Ace Avenger",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/65/%28Talent%29_Ace_Avenger.png",
+    "source": "https://web.archive.org/web/20240409061107id_/https://wiki.wizard101central.com/wiki/PetAbility:Ace_Avenger",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Bernie's Omen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c5/%28Talent%29_Bernie's_Omen.png",
+    "source": "https://web.archive.org/web/20240824043121id_/https://wiki.wizard101central.com/wiki/PetAbility:Bernie's_Omen",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Delay",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/77/%28Derby%29_Delay.png",
+    "source": "https://web.archive.org/web/20240409061140id_/https://wiki.wizard101central.com/wiki/PetAbility:Delay",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ivan's Omen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Talent%29_Ivan's_Omen.png",
+    "source": "https://web.archive.org/web/20240308085150id_/https://wiki.wizard101central.com/wiki/PetAbility:Ivan's_Omen",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Unicorn",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/57/%28Talent%29_Unicorn.png",
+    "source": "https://web.archive.org/web/20240409061121id_/https://wiki.wizard101central.com/wiki/PetAbility:Unicorn",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Dawdle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f4/%28Derby%29_Dawdle.png",
+    "source": "https://web.archive.org/web/20240409061138id_/https://wiki.wizard101central.com/wiki/PetAbility:Dawdle",
+    "rarity": "Common"
+  },
+  {
+    "name": "Spartan",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e9/%28Talent%29_Spartan.png",
+    "source": "https://web.archive.org/web/20240409061202id_/https://wiki.wizard101central.com/wiki/PetAbility:Spartan",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Cat Thug Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/55/%28Talent%29_Cat_Thug_Trained.png",
+    "source": "https://web.archive.org/web/20240308084316id_/https://wiki.wizard101central.com/wiki/PetAbility:Cat_Thug_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Earth Walker Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b6/%28Talent%29_Earth_Walker_Trained.png",
+    "source": "https://web.archive.org/web/20240910134410id_/https://wiki.wizard101central.com/wiki/PetAbility:Earth_Walker_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Life Seed Farmer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/00/%28Talent%29_Life_Seed_Farmer.png",
+    "source": "https://web.archive.org/web/20250315212406id_/https://wiki.wizard101central.com/wiki/PetAbility:Life_Seed_Farmer",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Plaguebringer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cb/%28Talent%29_Plaguebringer.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Plaguebringer",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Death Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/ff/%28Talent%29_Death_Trap.png",
+    "source": "https://web.archive.org/web/20240308085208id_/https://wiki.wizard101central.com/wiki/PetAbility:Death_Trap",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Ice-Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/62/%28Talent%29_Ice-Ward.png",
+    "source": "https://web.archive.org/web/20240308085218id_/https://wiki.wizard101central.com/wiki/PetAbility:Ice-Ward",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Strong",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/47/%28Talent%29_Strong.png",
+    "source": "https://web.archive.org/web/20231209124028id_/https://wiki.wizard101central.com/wiki/PetAbility:Strong",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Life Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/85/%28Talent%29_Life_Trap.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Life_Trap",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Smoke Screen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ac/%28Talent%29_Smoke_Screen.png",
+    "source": "https://web.archive.org/web/20240822150436id_/https://wiki.wizard101central.com/wiki/PetAbility:Smoke_Screen",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Storm-Away",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Talent%29_Storm-Away.png",
+    "source": "https://web.archive.org/web/20240214173035id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Away",
+    "rarity": "Common"
+  },
+  {
+    "name": "Storm-Eye",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/12/%28Talent%29_Storm-Eye.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/PetAbility:Storm-Eye",
+    "rarity": "Common"
+  },
+  {
+    "name": "Rage of Winter",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/21/%28Talent%29_Rage_of_Winter.png",
+    "source": "https://web.archive.org/web/20240907083730id_/https://wiki.wizard101central.com/wiki/PetAbility:Rage_of_Winter",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Black Mantle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/af/%28Talent%29_Black_Mantle.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Black_Mantle",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Capable",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/58/%28Talent%29_Capable.png",
+    "source": "https://web.archive.org/web/20240214174118id_/https://wiki.wizard101central.com/wiki/PetAbility:Capable",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Ninja Pig",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fa/%28Talent%29_Ninja_Pig.png",
+    "source": "https://web.archive.org/web/20240214173024id_/https://wiki.wizard101central.com/wiki/PetAbility:Ninja_Pig",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Black Widow",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ec/%28Talent%29_Black_Widow.png",
+    "source": "https://web.archive.org/web/20240214173022id_/https://wiki.wizard101central.com/wiki/PetAbility:Black_Widow",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Weakness",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e2/%28Talent%29_Weakness.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/PetAbility:Weakness",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Batusi",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0d/%28Talent%29_Batusi.png",
+    "source": "https://web.archive.org/web/20240409061109id_/https://wiki.wizard101central.com/wiki/PetAbility:Batusi",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Mythspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f5/%28Talent%29_Mythspear.png",
+    "source": "https://web.archive.org/web/20240214174147id_/https://wiki.wizard101central.com/wiki/PetAbility:Mythspear",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Leafstorm Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6a/%28Talent%29_Leafstorm_Trained.png",
+    "source": "https://web.archive.org/web/20240214173313id_/https://wiki.wizard101central.com/wiki/PetAbility:Leafstorm_Trained",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Life Finder",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3f/%28Talent%29_Life_Finder.png",
+    "source": "https://web.archive.org/web/20240409061148id_/https://wiki.wizard101central.com/wiki/PetAbility:Life_Finder",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Mender",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bf/%28Talent%29_Mender.png",
+    "source": "https://web.archive.org/web/20240409061132id_/https://wiki.wizard101central.com/wiki/PetAbility:Mender",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Go Humongo",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4a/%28Talent%29_Go_Humongo.png",
+    "source": "https://web.archive.org/web/20250722070743id_/https://wiki.wizard101central.com/wiki/PetAbility:Go_Humongo",
+    "rarity": "Ultra-Rare"
+  },
+  {
+    "name": "Brace For Impact",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2c/%28Talent%29_Brace_For_Impact.png",
+    "source": "https://web.archive.org/web/20250307183938id_/https://wiki.wizard101central.com/wiki/PetAbility:Brace_For_Impact",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Bullheaded",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/90/%28Talent%29_Bullheaded.png",
+    "source": "https://web.archive.org/web/20250919150051id_/https://wiki.wizard101central.com/wiki/PetAbility:Bullheaded",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Smoke Screen Trained",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/32/%28Talent%29_Smoke_Screen_Trained.png",
+    "source": "https://web.archive.org/web/20250215125819id_/https://wiki.wizard101central.com/wiki/PetAbility:Smoke_Screen_Trained",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Torrence's Omen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1e/%28Talent%29_Torrence's_Omen.png",
+    "source": "https://web.archive.org/web/20240308085142id_/https://wiki.wizard101central.com/wiki/PetAbility:Torrence's_Omen",
+    "rarity": "Epic"
+  },
+  {
+    "name": "Life Scout",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3a/%28Talent%29_Life_Scout.png",
+    "source": "https://web.archive.org/web/20250920010456id_/https://wiki.wizard101central.com/wiki/PetAbility:Life_Scout",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Myth Assistant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d6/%28Talent%29_Myth_Assistant.png",
+    "source": "https://web.archive.org/web/20250527191818id_/https://wiki.wizard101central.com/wiki/PetAbility:Myth_Assistant",
+    "rarity": "Common"
+  }
+]

@@ -1,0 +1,1637 @@
+[
+  {
+    "name": "Orthrus",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/37/%28Item_Card%29_Orthrus.png",
+    "source": "https://web.archive.org/web/20250804181935id_/https://wiki.wizard101central.com/wiki/ItemCard:Orthrus"
+  },
+  {
+    "name": "Time of Legend",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cc/%28Item_Card%29_Time_of_Legend.png",
+    "source": "https://web.archive.org/web/20240319164341id_/https://wiki.wizard101central.com/wiki/ItemCard:Time_of_Legend"
+  },
+  {
+    "name": "Polymorph Cat Bandit",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/37/%28Spell%29_Polymorph_Cat_Bandit.png",
+    "source": "https://web.archive.org/web/20240409061219id_/https://wiki.wizard101central.com/wiki/Spell:Polymorph_Cat_Bandit"
+  },
+  {
+    "name": "Deathblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/ff/%28Item_Card%29_Deathblade.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/ItemCard:Deathblade"
+  },
+  {
+    "name": "Supercharge",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ec/%28Item_Card%29_Supercharge.png",
+    "source": "https://web.archive.org/web/20240409061130id_/https://wiki.wizard101central.com/wiki/ItemCard:Supercharge"
+  },
+  {
+    "name": "Doom and Gloom",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Item_Card%29_Doom_and_Gloom.png",
+    "source": "https://web.archive.org/web/20240409061108id_/https://wiki.wizard101central.com/wiki/ItemCard:Doom_and_Gloom"
+  },
+  {
+    "name": "Berserk",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cc/%28Spell%29_Berserk.png",
+    "source": "https://web.archive.org/web/20250902031050id_/https://wiki.wizard101central.com/wiki/Spell:Berserk"
+  },
+  {
+    "name": "Dragonblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d3/%28Item_Card%29_Dragonblade.png",
+    "source": "https://web.archive.org/web/20240409061149id_/https://wiki.wizard101central.com/wiki/ItemCard:Dragonblade"
+  },
+  {
+    "name": "Disarm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/17/%28Item_Card%29_Disarm.png",
+    "source": "https://web.archive.org/web/20240214173134id_/https://wiki.wizard101central.com/wiki/ItemCard:Disarm"
+  },
+  {
+    "name": "Stun",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9d/%28Spell%29_Stun.png",
+    "source": "https://web.archive.org/web/20250920151816id_/https://wiki.wizard101central.com/wiki/Spell:Stun"
+  },
+  {
+    "name": "Scarab",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/17/%28Item_Card%29_Scarab.png",
+    "source": "https://web.archive.org/web/20240409061117id_/https://wiki.wizard101central.com/wiki/ItemCard:Scarab"
+  },
+  {
+    "name": "Arcane Armor",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Arcane%20Armor.png",
+    "source": null
+  },
+  {
+    "name": "Tower Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/31/%28Item_Card%29_Tower_Shield.png",
+    "source": "https://web.archive.org/web/20231129025942id_/https://wiki.wizard101central.com/wiki/ItemCard:Tower_Shield"
+  },
+  {
+    "name": "Shatter",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/20/%28Spell%29_Shatter.png",
+    "source": "https://web.archive.org/web/20240618150231id_/https://wiki.wizard101central.com/wiki/Spell:Shatter"
+  },
+  {
+    "name": "Wild Bolt",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e5/%28Spell%29_Wild_Bolt.png",
+    "source": "https://web.archive.org/web/20250913135833id_/https://wiki.wizard101central.com/wiki/Spell:Wild_Bolt"
+  },
+  {
+    "name": "Wraith",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8a/%28Item_Card%29_Wraith.png",
+    "source": "https://web.archive.org/web/20250905035132id_/https://wiki.wizard101central.com/wiki/ItemCard:Wraith"
+  },
+  {
+    "name": "Steal Health",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Steal%20Health.png",
+    "source": null
+  },
+  {
+    "name": "Ice Elf",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bb/%28Item_Card%29_Ice_Elf.png",
+    "source": "https://web.archive.org/web/20250908102003id_/https://wiki.wizard101central.com/wiki/ItemCard:Ice_Elf"
+  },
+  {
+    "name": "Celestial Intervention",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1b/%28Item_Card%29_Celestial_Intervention.png",
+    "source": "https://web.archive.org/web/20231216235111id_/https://wiki.wizard101central.com/wiki/ItemCard:Celestial_Intervention"
+  },
+  {
+    "name": "Snow Serpent",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b8/%28Item_Card%29_Snow_Serpent.png",
+    "source": "https://web.archive.org/web/20250917082225id_/https://wiki.wizard101central.com/wiki/ItemCard:Snow_Serpent"
+  },
+  {
+    "name": "Royal Triton",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Royal%20Triton.png",
+    "source": null
+  },
+  {
+    "name": "Balancespear",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Balancespear.png",
+    "source": null
+  },
+  {
+    "name": "Mighty Judgement",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Mighty%20Judgement.png",
+    "source": null
+  },
+  {
+    "name": "Guiding Light",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d1/%28Item_Card%29_Guiding_Light.png",
+    "source": "https://web.archive.org/web/20240409061215id_/https://wiki.wizard101central.com/wiki/ItemCard:Guiding_Light"
+  },
+  {
+    "name": "Sun Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Sun%20Trap.png",
+    "source": null
+  },
+  {
+    "name": "Amplify",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6e/%28Spell%29_Amplify.png",
+    "source": "https://web.archive.org/web/20250915052222id_/https://wiki.wizard101central.com/wiki/Spell:Amplify"
+  },
+  {
+    "name": "Moon Blade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d6/%28Item_Card%29_Moon_Blade.png",
+    "source": "https://web.archive.org/web/20250623022518id_/https://wiki.wizard101central.com/wiki/ItemCard:Moon_Blade"
+  },
+  {
+    "name": "Wildfire Treant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0f/%28Spell%29_Wildfire_Treant.png",
+    "source": "https://web.archive.org/web/20240409061206id_/https://wiki.wizard101central.com/wiki/Spell:Wildfire_Treant"
+  },
+  {
+    "name": "Nature%27s Wrath",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/73/%28Spell%29_Nature%27s_Wrath.png",
+    "source": "https://web.archive.org/web/20240121101355id_/https://wiki.wizard101central.com/wiki/Spell:Nature%27s_Wrath"
+  },
+  {
+    "name": "Feint",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/89/%28Item_Card%29_Feint.png",
+    "source": "https://web.archive.org/web/20250907103401id_/https://wiki.wizard101central.com/wiki/ItemCard:Feint"
+  },
+  {
+    "name": "Avenging Fossil",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0c/%28Item_Card%29_Avenging_Fossil.png",
+    "source": "https://web.archive.org/web/20250722070733id_/https://wiki.wizard101central.com/wiki/ItemCard:Avenging_Fossil"
+  },
+  {
+    "name": "Blinding Light",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/15/%28Item_Card%29_Blinding_Light.png",
+    "source": "https://web.archive.org/web/20250903094400id_/https://wiki.wizard101central.com/wiki/ItemCard:Blinding_Light"
+  },
+  {
+    "name": "Cloak",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Cloak.png",
+    "source": null
+  },
+  {
+    "name": "Supernova",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b8/%28Spell%29_Supernova.png",
+    "source": "https://web.archive.org/web/20240409061201id_/https://wiki.wizard101central.com/wiki/Spell:Supernova"
+  },
+  {
+    "name": "Punishment",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/77/%28Spell%29_Punishment.png",
+    "source": "https://web.archive.org/web/20240409061155id_/https://wiki.wizard101central.com/wiki/Spell:Punishment"
+  },
+  {
+    "name": "Spirit Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f3/%28Spell%29_Spirit_Shield.png",
+    "source": "https://web.archive.org/web/20240910031340id_/https://wiki.wizard101central.com/wiki/Spell:Spirit_Shield"
+  },
+  {
+    "name": "Balanceblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f2/%28Item_Card%29_Balanceblade.png",
+    "source": "https://web.archive.org/web/20250804182305id_/https://wiki.wizard101central.com/wiki/ItemCard:Balanceblade"
+  },
+  {
+    "name": "Sharpened Blade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1f/%28Item_Card%29_Sharpened_Blade.png",
+    "source": "https://web.archive.org/web/20250804182301id_/https://wiki.wizard101central.com/wiki/ItemCard:Sharpened_Blade"
+  },
+  {
+    "name": "Fortify",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/73/%28Spell%29_Fortify.png",
+    "source": "https://web.archive.org/web/20250919010840id_/https://wiki.wizard101central.com/wiki/Spell:Fortify"
+  },
+  {
+    "name": "Athena Battle Sight",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/07/%28Spell%29_Athena_Battle_Sight.png",
+    "source": "https://web.archive.org/web/20250904154512id_/https://wiki.wizard101central.com/wiki/Spell:Athena_Battle_Sight"
+  },
+  {
+    "name": "Stun Block",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/44/%28Item_Card%29_Stun_Block.png",
+    "source": "https://web.archive.org/web/20250917195548id_/https://wiki.wizard101central.com/wiki/ItemCard:Stun_Block"
+  },
+  {
+    "name": "Hydra",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/60/%28Item_Card%29_Hydra.png",
+    "source": "https://web.archive.org/web/20240121110605id_/https://wiki.wizard101central.com/wiki/ItemCard:Hydra"
+  },
+  {
+    "name": "Guardian Spirit",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Guardian%20Spirit.png",
+    "source": null
+  },
+  {
+    "name": "Infection",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/53/%28Item_Card%29_Infection.png",
+    "source": "https://web.archive.org/web/20240214173148id_/https://wiki.wizard101central.com/wiki/ItemCard:Infection"
+  },
+  {
+    "name": "Bladestorm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d4/%28Item_Card%29_Bladestorm.png",
+    "source": "https://web.archive.org/web/20250120091517id_/https://wiki.wizard101central.com/wiki/ItemCard:Bladestorm"
+  },
+  {
+    "name": "Cleanse Charm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/05/%28Spell%29_Cleanse_Charm.png",
+    "source": "https://web.archive.org/web/20231216235111id_/https://wiki.wizard101central.com/wiki/Spell:Cleanse_Charm"
+  },
+  {
+    "name": "Soothe",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/22/%28Spell%29_Soothe.png",
+    "source": "https://web.archive.org/web/20240121103230id_/https://wiki.wizard101central.com/wiki/Spell:Soothe"
+  },
+  {
+    "name": "Cyclops Minion",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/63/%28Spell%29_Cyclops_Minion.png",
+    "source": "https://web.archive.org/web/20250904162755id_/https://wiki.wizard101central.com/wiki/Spell:Cyclops_Minion"
+  },
+  {
+    "name": "Leviathan",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/51/%28Item_Card%29_Leviathan.png",
+    "source": "https://web.archive.org/web/20240829143930id_/https://wiki.wizard101central.com/wiki/ItemCard:Leviathan"
+  },
+  {
+    "name": "Colossus",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/33/%28Item_Card%29_Colossus.png",
+    "source": "https://web.archive.org/web/20250920001430id_/https://wiki.wizard101central.com/wiki/ItemCard:Colossus"
+  },
+  {
+    "name": "Ice Wyvern",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7e/%28Item_Card%29_Ice_Wyvern.png",
+    "source": "https://web.archive.org/web/20240214174142id_/https://wiki.wizard101central.com/wiki/ItemCard:Ice_Wyvern"
+  },
+  {
+    "name": "Black Cat",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Black%20Cat.png",
+    "source": null
+  },
+  {
+    "name": "Black Widow",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/57/%28Spell%29_Black_Widow.png",
+    "source": "https://web.archive.org/web/20231217024021id_/https://wiki.wizard101central.com/wiki/Spell:Black_Widow"
+  },
+  {
+    "name": "Fireblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/18/%28Item_Card%29_Fireblade.png",
+    "source": "https://web.archive.org/web/20250804182321id_/https://wiki.wizard101central.com/wiki/ItemCard:Fireblade"
+  },
+  {
+    "name": "Krokomummy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/26/%28Item_Card%29_Krokomummy.png",
+    "source": "https://web.archive.org/web/20240308084155id_/https://wiki.wizard101central.com/wiki/ItemCard:Krokomummy"
+  },
+  {
+    "name": "Detonate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/30/%28Item_Card%29_Detonate.png",
+    "source": "https://web.archive.org/web/20240226003448id_/https://wiki.wizard101central.com/wiki/ItemCard:Detonate"
+  },
+  {
+    "name": "Inferno Kraken",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Inferno%20Kraken.png",
+    "source": null
+  },
+  {
+    "name": "Entangle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cd/%28Item_Card%29_Entangle.png",
+    "source": "https://web.archive.org/web/20240214173110id_/https://wiki.wizard101central.com/wiki/ItemCard:Entangle"
+  },
+  {
+    "name": "Balefrost",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/06/%28Item_Card%29_Balefrost.png",
+    "source": "https://web.archive.org/web/20240214173102id_/https://wiki.wizard101central.com/wiki/ItemCard:Balefrost"
+  },
+  {
+    "name": "Dissipate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1a/%28Spell%29_Dissipate.png",
+    "source": "https://web.archive.org/web/20240121103220id_/https://wiki.wizard101central.com/wiki/Spell:Dissipate"
+  },
+  {
+    "name": "Immolate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4d/%28Item_Card%29_Immolate.png",
+    "source": "https://web.archive.org/web/20240214173101id_/https://wiki.wizard101central.com/wiki/ItemCard:Immolate"
+  },
+  {
+    "name": "Spirit Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Spirit%20Trap.png",
+    "source": null
+  },
+  {
+    "name": "Mythblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/38/%28Item_Card%29_Mythblade.png",
+    "source": "https://web.archive.org/web/20240206214932id_/https://wiki.wizard101central.com/wiki/ItemCard:Mythblade"
+  },
+  {
+    "name": "Deathspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/40/%28Spell%29_Deathspear.png",
+    "source": "https://web.archive.org/web/20240409061154id_/https://wiki.wizard101central.com/wiki/Spell:Deathspear"
+  },
+  {
+    "name": "Winter Moon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d1/%28Spell%29_Winter_Moon.png",
+    "source": "https://web.archive.org/web/20250913155739id_/https://wiki.wizard101central.com/wiki/Spell:Winter_Moon"
+  },
+  {
+    "name": "Steal Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d6/%28Spell%29_Steal_Ward.png",
+    "source": "https://web.archive.org/web/20250912164751id_/https://wiki.wizard101central.com/wiki/Spell:Steal_Ward"
+  },
+  {
+    "name": "Firespear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6e/%28Item_Card%29_Firespear.png",
+    "source": "https://web.archive.org/web/20240409061146id_/https://wiki.wizard101central.com/wiki/ItemCard:Firespear"
+  },
+  {
+    "name": "Empowerment",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/62/%28Spell%29_Empowerment.png",
+    "source": "https://web.archive.org/web/20250906030738id_/https://wiki.wizard101central.com/wiki/Spell:Empowerment"
+  },
+  {
+    "name": "Mend Minion",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Mend%20Minion.png",
+    "source": null
+  },
+  {
+    "name": "Storm Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/42/%28Item_Card%29_Storm_Shield.png",
+    "source": "https://web.archive.org/web/20240822150435id_/https://wiki.wizard101central.com/wiki/ItemCard:Storm_Shield"
+  },
+  {
+    "name": "Bone Dragon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/60/%28Item_Card%29_Bone_Dragon.png",
+    "source": "https://web.archive.org/web/20240409061100id_/https://wiki.wizard101central.com/wiki/ItemCard:Bone_Dragon"
+  },
+  {
+    "name": "Frozen Armor",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/30/%28Spell%29_Frozen_Armor.png",
+    "source": "https://web.archive.org/web/20240409061216id_/https://wiki.wizard101central.com/wiki/Spell:Frozen_Armor"
+  },
+  {
+    "name": "Conviction",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2c/%28Spell%29_Conviction.png",
+    "source": "https://web.archive.org/web/20240409061155id_/https://wiki.wizard101central.com/wiki/Spell:Conviction"
+  },
+  {
+    "name": "Colossafrog",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Colossafrog.png",
+    "source": null
+  },
+  {
+    "name": "Star Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e0/%28Item_Card%29_Star_Trap.png",
+    "source": "https://web.archive.org/web/20250809084757id_/https://wiki.wizard101central.com/wiki/ItemCard:Star_Trap"
+  },
+  {
+    "name": "Bronze Armor",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Bronze%20Armor.png",
+    "source": null
+  },
+  {
+    "name": "Hail Hound",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Hail%20Hound.png",
+    "source": null
+  },
+  {
+    "name": "Giant Spider",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Giant%20Spider.png",
+    "source": null
+  },
+  {
+    "name": "Pixie",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c1/%28Spell%29_Pixie.png",
+    "source": "https://web.archive.org/web/20240121101429id_/https://wiki.wizard101central.com/wiki/Spell:Pixie"
+  },
+  {
+    "name": "Iceblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d2/%28Item_Card%29_Iceblade.png",
+    "source": "https://web.archive.org/web/20230923011928id_/https://wiki.wizard101central.com/wiki/ItemCard:Iceblade"
+  },
+  {
+    "name": "Luminous Weaver",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3b/%28Item_Card%29_Luminous_Weaver.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/ItemCard:Luminous_Weaver"
+  },
+  {
+    "name": "Beguile",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c9/%28Item_Card%29_Beguile.png",
+    "source": "https://web.archive.org/web/20231216235108id_/https://wiki.wizard101central.com/wiki/ItemCard:Beguile"
+  },
+  {
+    "name": "Dark Pact",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/41/%28Item_Card%29_Dark_Pact.png",
+    "source": "https://web.archive.org/web/20240409061130id_/https://wiki.wizard101central.com/wiki/ItemCard:Dark_Pact"
+  },
+  {
+    "name": "Clockwork Golem",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6b/%28Item_Card%29_Clockwork_Golem.png",
+    "source": "https://web.archive.org/web/20240915125345id_/https://wiki.wizard101central.com/wiki/ItemCard:Clockwork_Golem"
+  },
+  {
+    "name": "Stormzilla",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0d/%28Item_Card%29_Stormzilla.png",
+    "source": "https://web.archive.org/web/20240409061118id_/https://wiki.wizard101central.com/wiki/ItemCard:Stormzilla"
+  },
+  {
+    "name": "Fire Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/26/%28Item_Card%29_Fire_Trap.png",
+    "source": "https://web.archive.org/web/20240308084742id_/https://wiki.wizard101central.com/wiki/ItemCard:Fire_Trap"
+  },
+  {
+    "name": "Firezilla",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/47/%28Item_Card%29_Firezilla.png",
+    "source": "https://web.archive.org/web/20240308085341id_/https://wiki.wizard101central.com/wiki/ItemCard:Firezilla"
+  },
+  {
+    "name": "Myth Banshee",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Myth%20Banshee.png",
+    "source": null
+  },
+  {
+    "name": "Deer Knight",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/03/%28Spell%29_Deer_Knight.png",
+    "source": "https://web.archive.org/web/20250908045542id_/https://wiki.wizard101central.com/wiki/Spell:Deer_Knight"
+  },
+  {
+    "name": "Bonetree Lord",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Spell%29_Bonetree_Lord.png",
+    "source": "https://web.archive.org/web/20231217024024id_/https://wiki.wizard101central.com/wiki/Spell:Bonetree_Lord"
+  },
+  {
+    "name": "Humongofrog",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2d/%28Item_Card%29_Humongofrog.png",
+    "source": "https://web.archive.org/web/20240409061219id_/https://wiki.wizard101central.com/wiki/ItemCard:Humongofrog"
+  },
+  {
+    "name": "Unicorn",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6f/%28Item_Card%29_Unicorn.png",
+    "source": "https://web.archive.org/web/20240409061115id_/https://wiki.wizard101central.com/wiki/ItemCard:Unicorn"
+  },
+  {
+    "name": "Steal Charm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/90/%28Item_Card%29_Steal_Charm.png",
+    "source": "https://web.archive.org/web/20240214173114id_/https://wiki.wizard101central.com/wiki/ItemCard:Steal_Charm"
+  },
+  {
+    "name": "Helephant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/21/%28Item_Card%29_Helephant.png",
+    "source": "https://web.archive.org/web/20240121104807id_/https://wiki.wizard101central.com/wiki/ItemCard:Helephant"
+  },
+  {
+    "name": "Glacial Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/54/%28Spell%29_Glacial_Shield.png",
+    "source": "https://web.archive.org/web/20250911044355id_/https://wiki.wizard101central.com/wiki/Spell:Glacial_Shield"
+  },
+  {
+    "name": "Magma Colossus",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2f/%28Spell%29_Magma_Colossus.png",
+    "source": "https://web.archive.org/web/20240409061206id_/https://wiki.wizard101central.com/wiki/Spell:Magma_Colossus"
+  },
+  {
+    "name": "Insane Bolt",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/07/%28Spell%29_Insane_Bolt.png",
+    "source": "https://web.archive.org/web/20250905030136id_/https://wiki.wizard101central.com/wiki/Spell:Insane_Bolt"
+  },
+  {
+    "name": "Guidance",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/ca/%28Item_Card%29_Guidance.png",
+    "source": "https://web.archive.org/web/20240829122617id_/https://wiki.wizard101central.com/wiki/ItemCard:Guidance"
+  },
+  {
+    "name": "Ice Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/85/%28Spell%29_Ice_Prism.png",
+    "source": "https://web.archive.org/web/20240121104337id_/https://wiki.wizard101central.com/wiki/Spell:Ice_Prism"
+  },
+  {
+    "name": "Rampaging Chimera",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Rampaging%20Chimera.png",
+    "source": null
+  },
+  {
+    "name": "Yuletide Elf",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Yuletide%20Elf.png",
+    "source": null
+  },
+  {
+    "name": "Clockwork Minion",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/12/%28Item_Card%29_Clockwork_Minion.png",
+    "source": "https://web.archive.org/web/20250603100723id_/https://wiki.wizard101central.com/wiki/ItemCard:Clockwork_Minion"
+  },
+  {
+    "name": "Storm Elf",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/06/%28Item_Card%29_Storm_Elf.png",
+    "source": "https://web.archive.org/web/20240308085142id_/https://wiki.wizard101central.com/wiki/ItemCard:Storm_Elf"
+  },
+  {
+    "name": "Kraken",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/99/%28Spell%29_Kraken.png",
+    "source": "https://web.archive.org/web/20250903091557id_/https://wiki.wizard101central.com/wiki/Spell:Kraken"
+  },
+  {
+    "name": "Steel Colossus",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/06/%28Item_Card%29_Steel_Colossus.png",
+    "source": "https://web.archive.org/web/20240226002828id_/https://wiki.wizard101central.com/wiki/ItemCard:Steel_Colossus"
+  },
+  {
+    "name": "Eirikur Axebreaker",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Eirikur%20Axebreaker.png",
+    "source": null
+  },
+  {
+    "name": "Stone Colossus",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fd/%28Spell%29_Stone_Colossus.png",
+    "source": "https://web.archive.org/web/20250903231710id_/https://wiki.wizard101central.com/wiki/Spell:Stone_Colossus"
+  },
+  {
+    "name": "Precision",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d8/%28Item_Card%29_Precision.png",
+    "source": "https://web.archive.org/web/20240409061118id_/https://wiki.wizard101central.com/wiki/ItemCard:Precision"
+  },
+  {
+    "name": "Brilliant Light",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5f/%28Spell%29_Brilliant_Light.png",
+    "source": "https://web.archive.org/web/20240409061205id_/https://wiki.wizard101central.com/wiki/Spell:Brilliant_Light"
+  },
+  {
+    "name": "Sunbird",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2d/%28Spell%29_Sunbird.png",
+    "source": "https://web.archive.org/web/20250919013732id_/https://wiki.wizard101central.com/wiki/Spell:Sunbird"
+  },
+  {
+    "name": "Ice Armor",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/48/%28Spell%29_Ice_Armor.png",
+    "source": "https://web.archive.org/web/20250916194136id_/https://wiki.wizard101central.com/wiki/Spell:Ice_Armor"
+  },
+  {
+    "name": "Minotaur",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/22/%28Spell%29_Minotaur.png",
+    "source": "https://web.archive.org/web/20250908233209id_/https://wiki.wizard101central.com/wiki/Spell:Minotaur"
+  },
+  {
+    "name": "Water Elemental",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Water%20Elemental.png",
+    "source": null
+  },
+  {
+    "name": "Ominous Scarecrow",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Ominous%20Scarecrow.png",
+    "source": null
+  },
+  {
+    "name": "Scorpion",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/91/%28Spell%29_Scorpion.png",
+    "source": "https://web.archive.org/web/20250907141507id_/https://wiki.wizard101central.com/wiki/Spell:Scorpion"
+  },
+  {
+    "name": "Plague",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Spell%29_Plague.png",
+    "source": "https://web.archive.org/web/20250914221140id_/https://wiki.wizard101central.com/wiki/Spell:Plague"
+  },
+  {
+    "name": "Virulent Basilisk",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Virulent%20Basilisk.png",
+    "source": null
+  },
+  {
+    "name": "Cyclops",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/ff/%28Item_Card%29_Cyclops.png",
+    "source": "https://web.archive.org/web/20240226002826id_/https://wiki.wizard101central.com/wiki/ItemCard:Cyclops"
+  },
+  {
+    "name": "Fuel",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9c/%28Spell%29_Fuel.png",
+    "source": "https://web.archive.org/web/20250908224924id_/https://wiki.wizard101central.com/wiki/Spell:Fuel"
+  },
+  {
+    "name": "Crow",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Crow.png",
+    "source": null
+  },
+  {
+    "name": "Blizzard",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/58/%28Item_Card%29_Blizzard.png",
+    "source": "https://web.archive.org/web/20250911110253id_/https://wiki.wizard101central.com/wiki/ItemCard:Blizzard"
+  },
+  {
+    "name": "Death Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/89/%28Spell%29_Death_Trap.png",
+    "source": "https://web.archive.org/web/20250901032002id_/https://wiki.wizard101central.com/wiki/Spell:Death_Trap"
+  },
+  {
+    "name": "Noble Humongofrog",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/77/%28Spell%29_Noble_Humongofrog.png",
+    "source": "https://web.archive.org/web/20240409061204id_/https://wiki.wizard101central.com/wiki/Spell:Noble_Humongofrog"
+  },
+  {
+    "name": "Virulence",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0a/%28Spell%29_Virulence.png",
+    "source": "https://web.archive.org/web/20231216235145id_/https://wiki.wizard101central.com/wiki/Spell:Virulence"
+  },
+  {
+    "name": "Death Cyclops",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7e/%28Spell%29_Death_Cyclops.png",
+    "source": "https://web.archive.org/web/20250911125704id_/https://wiki.wizard101central.com/wiki/Spell:Death_Cyclops"
+  },
+  {
+    "name": "Death Ninja Pig",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Death%20Ninja%20Pig.png",
+    "source": null
+  },
+  {
+    "name": "Death Scarab",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Death%20Scarab.png",
+    "source": null
+  },
+  {
+    "name": "Death Troll",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Death%20Troll.png",
+    "source": null
+  },
+  {
+    "name": "Death Bat",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Death%20Bat.png",
+    "source": null
+  },
+  {
+    "name": "Gargantuan",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/11/%28Spell%29_Gargantuan.png",
+    "source": "https://web.archive.org/web/20250901135318id_/https://wiki.wizard101central.com/wiki/Spell:Gargantuan"
+  },
+  {
+    "name": "Poison",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b8/%28Spell%29_Poison.png",
+    "source": "https://web.archive.org/web/20250906141138id_/https://wiki.wizard101central.com/wiki/Spell:Poison"
+  },
+  {
+    "name": "Pigsie",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e0/%28Spell%29_Pigsie.png",
+    "source": "https://web.archive.org/web/20250821232957id_/https://wiki.wizard101central.com/wiki/Spell:Pigsie"
+  },
+  {
+    "name": "Stormblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/11/%28Item_Card%29_Stormblade.png",
+    "source": "https://web.archive.org/web/20240829145550id_/https://wiki.wizard101central.com/wiki/ItemCard:Stormblade"
+  },
+  {
+    "name": "Polymorph Gobbler",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cf/%28Spell%29_Polymorph_Gobbler.png",
+    "source": "https://web.archive.org/web/20240409061155id_/https://wiki.wizard101central.com/wiki/Spell:Polymorph_Gobbler"
+  },
+  {
+    "name": "Dryad",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/74/%28Item_Card%29_Dryad.png",
+    "source": "https://web.archive.org/web/20240409061221id_/https://wiki.wizard101central.com/wiki/ItemCard:Dryad"
+  },
+  {
+    "name": "Meteor Strike",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a8/%28Spell%29_Meteor_Strike.png",
+    "source": "https://web.archive.org/web/20250904215810id_/https://wiki.wizard101central.com/wiki/Spell:Meteor_Strike"
+  },
+  {
+    "name": "Ghoul",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/62/%28Item_Card%29_Ghoul.png",
+    "source": "https://web.archive.org/web/20250527215834id_/https://wiki.wizard101central.com/wiki/ItemCard:Ghoul"
+  },
+  {
+    "name": "Life Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2b/%28Spell%29_Life_Trap.png",
+    "source": "https://web.archive.org/web/20250907203537id_/https://wiki.wizard101central.com/wiki/Spell:Life_Trap"
+  },
+  {
+    "name": "Life Scarab",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ae/%28Item_Card%29_Life_Scarab.png",
+    "source": "https://web.archive.org/web/20240312020143id_/https://wiki.wizard101central.com/wiki/ItemCard:Life_Scarab"
+  },
+  {
+    "name": "Virulent Plague",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e9/%28Spell%29_Virulent_Plague.png",
+    "source": "https://web.archive.org/web/20250915045935id_/https://wiki.wizard101central.com/wiki/Spell:Virulent_Plague"
+  },
+  {
+    "name": "Myth Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c4/%28Spell%29_Myth_Trap.png",
+    "source": "https://web.archive.org/web/20250901062917id_/https://wiki.wizard101central.com/wiki/Spell:Myth_Trap"
+  },
+  {
+    "name": "Storm Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/ff/%28Spell%29_Storm_Prism.png",
+    "source": "https://web.archive.org/web/20240121103159id_/https://wiki.wizard101central.com/wiki/Spell:Storm_Prism"
+  },
+  {
+    "name": "Pierce",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5a/%28Item_Card%29_Pierce.png",
+    "source": "https://web.archive.org/web/20250908124702id_/https://wiki.wizard101central.com/wiki/ItemCard:Pierce"
+  },
+  {
+    "name": "Mythspear",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Mythspear.png",
+    "source": null
+  },
+  {
+    "name": "Lifeblade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/14/%28Item_Card%29_Lifeblade.png",
+    "source": "https://web.archive.org/web/20240409061101id_/https://wiki.wizard101central.com/wiki/ItemCard:Lifeblade"
+  },
+  {
+    "name": "Sprite Swarm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6d/%28Spell%29_Sprite_Swarm.png",
+    "source": "https://web.archive.org/web/20250909004039id_/https://wiki.wizard101central.com/wiki/Spell:Sprite_Swarm"
+  },
+  {
+    "name": "Hamadryad",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/20/%28Item_Card%29_Hamadryad.png",
+    "source": "https://web.archive.org/web/20240829123331id_/https://wiki.wizard101central.com/wiki/ItemCard:Hamadryad"
+  },
+  {
+    "name": "Earth Walker",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b4/%28Item_Card%29_Earth_Walker.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/ItemCard:Earth_Walker"
+  },
+  {
+    "name": "Vengeful Efreet",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Vengeful%20Efreet.png",
+    "source": null
+  },
+  {
+    "name": "Link",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/be/%28Spell%29_Link.png",
+    "source": "https://web.archive.org/web/20250908085536id_/https://wiki.wizard101central.com/wiki/Spell:Link"
+  },
+  {
+    "name": "Sandstorm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d9/%28Spell%29_Sandstorm.png",
+    "source": "https://web.archive.org/web/20240409061215id_/https://wiki.wizard101central.com/wiki/Spell:Sandstorm"
+  },
+  {
+    "name": "Spirit Blade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/37/%28Spell%29_Spirit_Blade.png",
+    "source": "https://web.archive.org/web/20240409061207id_/https://wiki.wizard101central.com/wiki/Spell:Spirit_Blade"
+  },
+  {
+    "name": "Myth Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/78/%28Item_Card%29_Myth_Prism.png",
+    "source": "https://web.archive.org/web/20240409061155id_/https://wiki.wizard101central.com/wiki/ItemCard:Myth_Prism"
+  },
+  {
+    "name": "Smoke Screen",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/48/%28Item_Card%29_Smoke_Screen.png",
+    "source": "https://web.archive.org/web/20250906000154id_/https://wiki.wizard101central.com/wiki/ItemCard:Smoke_Screen"
+  },
+  {
+    "name": "Mythic Fuel",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/55/%28Item_Card%29_Mythic_Fuel.png",
+    "source": "https://web.archive.org/web/20250907144053id_/https://wiki.wizard101central.com/wiki/ItemCard:Mythic_Fuel"
+  },
+  {
+    "name": "Sun Serpent",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/54/%28Item_Card%29_Sun_Serpent.png",
+    "source": "https://web.archive.org/web/20250903043727id_/https://wiki.wizard101central.com/wiki/ItemCard:Sun_Serpent"
+  },
+  {
+    "name": "Fairy",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/21/%28Spell%29_Fairy.png",
+    "source": "https://web.archive.org/web/20240409061153id_/https://wiki.wizard101central.com/wiki/Spell:Fairy"
+  },
+  {
+    "name": "Legendary Treant",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Legendary%20Treant.png",
+    "source": null
+  },
+  {
+    "name": "Fable Lord",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fable%20Lord.png",
+    "source": null
+  },
+  {
+    "name": "Blood Bat",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c9/%28Spell%29_Blood_Bat.png",
+    "source": "https://web.archive.org/web/20250829201441id_/https://wiki.wizard101central.com/wiki/Spell:Blood_Bat"
+  },
+  {
+    "name": "Ancient Wyvern",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Ancient%20Wyvern.png",
+    "source": null
+  },
+  {
+    "name": "Devotion",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Devotion.png",
+    "source": null
+  },
+  {
+    "name": "Judgement",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/dc/%28Item_Card%29_Judgement.png",
+    "source": "https://web.archive.org/web/20240409061119id_/https://wiki.wizard101central.com/wiki/ItemCard:Judgement"
+  },
+  {
+    "name": "Cat Nap",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Cat%20Nap.png",
+    "source": null
+  },
+  {
+    "name": "Dragonlance",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8f/%28Spell%29_Dragonlance.png",
+    "source": "https://web.archive.org/web/20240226224516id_/https://wiki.wizard101central.com/wiki/Spell:Dragonlance"
+  },
+  {
+    "name": "Rain of Fire",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/86/%28Spell%29_Rain_of_Fire.png",
+    "source": "https://web.archive.org/web/20250910181900id_/https://wiki.wizard101central.com/wiki/Spell:Rain_of_Fire"
+  },
+  {
+    "name": "Fire Serpent",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Serpent.png",
+    "source": null
+  },
+  {
+    "name": "Fire Elemental",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Elemental.png",
+    "source": null
+  },
+  {
+    "name": "Life Fuel",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Life%20Fuel.png",
+    "source": null
+  },
+  {
+    "name": "Life Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/41/%28Item_Card%29_Life_Shield.png",
+    "source": "https://web.archive.org/web/20240409061103id_/https://wiki.wizard101central.com/wiki/ItemCard:Life_Shield"
+  },
+  {
+    "name": "Mass Infection",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b1/%28Item_Card%29_Mass_Infection.png",
+    "source": "https://web.archive.org/web/20240214173220id_/https://wiki.wizard101central.com/wiki/ItemCard:Mass_Infection"
+  },
+  {
+    "name": "Fire Elf",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c9/%28Item_Card%29_Fire_Elf.png",
+    "source": "https://web.archive.org/web/20240226002823id_/https://wiki.wizard101central.com/wiki/ItemCard:Fire_Elf"
+  },
+  {
+    "name": "Banshee",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7f/%28Spell%29_Banshee.png",
+    "source": "https://web.archive.org/web/20250904060108id_/https://wiki.wizard101central.com/wiki/Spell:Banshee"
+  },
+  {
+    "name": "Fire Starter",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Starter.png",
+    "source": null
+  },
+  {
+    "name": "Power Link",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/93/%28Spell%29_Power_Link.png",
+    "source": "https://web.archive.org/web/20250831065838id_/https://wiki.wizard101central.com/wiki/Spell:Power_Link"
+  },
+  {
+    "name": "Furnace",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a4/%28Spell%29_Furnace.png",
+    "source": "https://web.archive.org/web/20240409061208id_/https://wiki.wizard101central.com/wiki/Spell:Furnace"
+  },
+  {
+    "name": "Fire Beetle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6d/%28Spell%29_Fire_Beetle.png",
+    "source": "https://web.archive.org/web/20250321053851id_/https://wiki.wizard101central.com/wiki/Spell:Fire_Beetle"
+  },
+  {
+    "name": "Elemental Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/cf/%28Item_Card%29_Elemental_Shield.png",
+    "source": "https://web.archive.org/web/20241126081542id_/https://wiki.wizard101central.com/wiki/ItemCard:Elemental_Shield"
+  },
+  {
+    "name": "Mander",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Mander.png",
+    "source": null
+  },
+  {
+    "name": "Hex",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/87/%28Item_Card%29_Hex.png",
+    "source": "https://web.archive.org/web/20240308085019id_/https://wiki.wizard101central.com/wiki/ItemCard:Hex"
+  },
+  {
+    "name": "Fire Bats",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Bats.png",
+    "source": null
+  },
+  {
+    "name": "Minor Vitality Lure",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Minor%20Vitality%20Lure.png",
+    "source": null
+  },
+  {
+    "name": "Fire Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Prism.png",
+    "source": null
+  },
+  {
+    "name": "Legend Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d9/%28Spell%29_Legend_Shield.png",
+    "source": "https://web.archive.org/web/20240121095640id_/https://wiki.wizard101central.com/wiki/Spell:Legend_Shield"
+  },
+  {
+    "name": "Ether Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Ether%20Shield.png",
+    "source": null
+  },
+  {
+    "name": "Dream Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/66/%28Spell%29_Dream_Shield.png",
+    "source": "https://web.archive.org/web/20250913034441id_/https://wiki.wizard101central.com/wiki/Spell:Dream_Shield"
+  },
+  {
+    "name": "Availing Hands",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/86/%28Spell%29_Availing_Hands.png",
+    "source": "https://web.archive.org/web/20240409061205id_/https://wiki.wizard101central.com/wiki/Spell:Availing_Hands"
+  },
+  {
+    "name": "Darkwind",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ad/%28Spell%29_Darkwind.png",
+    "source": "https://web.archive.org/web/20240909225818id_/https://wiki.wizard101central.com/wiki/Spell:Darkwind"
+  },
+  {
+    "name": "Enraged Forest Lord",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/42/%28Spell%29_Enraged_Forest_Lord.png",
+    "source": "https://web.archive.org/web/20240409061151id_/https://wiki.wizard101central.com/wiki/Spell:Enraged_Forest_Lord"
+  },
+  {
+    "name": "Crusade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/22/%28Item_Card%29_Crusade.png",
+    "source": "https://web.archive.org/web/20240308084851id_/https://wiki.wizard101central.com/wiki/ItemCard:Crusade"
+  },
+  {
+    "name": "Healing Current",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4f/%28Spell%29_Healing_Current.png",
+    "source": "https://web.archive.org/web/20250908201228id_/https://wiki.wizard101central.com/wiki/Spell:Healing_Current"
+  },
+  {
+    "name": "Storm Shark",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/52/%28Spell%29_Storm_Shark.png",
+    "source": "https://web.archive.org/web/20250907163940id_/https://wiki.wizard101central.com/wiki/Spell:Storm_Shark"
+  },
+  {
+    "name": "Sanctuary",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/51/%28Spell%29_Sanctuary.png",
+    "source": "https://web.archive.org/web/20240121101450id_/https://wiki.wizard101central.com/wiki/Spell:Sanctuary"
+  },
+  {
+    "name": "Evil Snowman",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bf/%28Item_Card%29_Evil_Snowman.png",
+    "source": "https://web.archive.org/web/20250907085625id_/https://wiki.wizard101central.com/wiki/ItemCard:Evil_Snowman"
+  },
+  {
+    "name": "Icespear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f2/%28Spell%29_Icespear.png",
+    "source": "https://web.archive.org/web/20240121092844id_/https://wiki.wizard101central.com/wiki/Spell:Icespear"
+  },
+  {
+    "name": "Frost Giant Jarl",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Frost%20Giant%20Jarl.png",
+    "source": null
+  },
+  {
+    "name": "Frost Beetle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/48/%28Item_Card%29_Frost_Beetle.png",
+    "source": "https://web.archive.org/web/20250911162139id_/https://wiki.wizard101central.com/wiki/ItemCard:Frost_Beetle"
+  },
+  {
+    "name": "Volcanic Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ec/%28Spell%29_Volcanic_Shield.png",
+    "source": "https://web.archive.org/web/20250906071514id_/https://wiki.wizard101central.com/wiki/Spell:Volcanic_Shield"
+  },
+  {
+    "name": "Satyr",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3d/%28Spell%29_Satyr.png",
+    "source": "https://web.archive.org/web/20240409061151id_/https://wiki.wizard101central.com/wiki/Spell:Satyr"
+  },
+  {
+    "name": "Frostbite",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a7/%28Item_Card%29_Frostbite.png",
+    "source": "https://web.archive.org/web/20240409061155id_/https://wiki.wizard101central.com/wiki/ItemCard:Frostbite"
+  },
+  {
+    "name": "Accurate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/96/%28Item_Card%29_Accurate.png",
+    "source": "https://web.archive.org/web/20240214173135id_/https://wiki.wizard101central.com/wiki/ItemCard:Accurate"
+  },
+  {
+    "name": "Stormspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/86/%28Spell%29_Stormspear.png",
+    "source": "https://web.archive.org/web/20250908125718id_/https://wiki.wizard101central.com/wiki/Spell:Stormspear"
+  },
+  {
+    "name": "Empower",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/54/%28Spell%29_Empower.png",
+    "source": "https://web.archive.org/web/20250916232319id_/https://wiki.wizard101central.com/wiki/Spell:Empower"
+  },
+  {
+    "name": "Animate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5d/%28Item_Card%29_Animate.png",
+    "source": "https://web.archive.org/web/20231216235110id_/https://wiki.wizard101central.com/wiki/ItemCard:Animate"
+  },
+  {
+    "name": "Age of Reckoning",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ad/%28Spell%29_Age_of_Reckoning.png",
+    "source": "https://web.archive.org/web/20250915041251id_/https://wiki.wizard101central.com/wiki/Spell:Age_of_Reckoning"
+  },
+  {
+    "name": "Petrify",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Petrify.png",
+    "source": null
+  },
+  {
+    "name": "Threefold Fever",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/70/%28Item_Card%29_Threefold_Fever.png",
+    "source": "https://web.archive.org/web/20240214173020id_/https://wiki.wizard101central.com/wiki/ItemCard:Threefold_Fever"
+  },
+  {
+    "name": "Elemental Blade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/13/%28Spell%29_Elemental_Blade.png",
+    "source": "https://web.archive.org/web/20250307194935id_/https://wiki.wizard101central.com/wiki/Spell:Elemental_Blade"
+  },
+  {
+    "name": "Vengeance",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9b/%28Item_Card%29_Vengeance.png",
+    "source": "https://web.archive.org/web/20240409061142id_/https://wiki.wizard101central.com/wiki/ItemCard:Vengeance"
+  },
+  {
+    "name": "Basilisk",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4f/%28Item_Card%29_Basilisk.png",
+    "source": "https://web.archive.org/web/20240214174147id_/https://wiki.wizard101central.com/wiki/ItemCard:Basilisk"
+  },
+  {
+    "name": "Fire Dragon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c9/%28Spell%29_Fire_Dragon.png",
+    "source": "https://web.archive.org/web/20250908092101id_/https://wiki.wizard101central.com/wiki/Spell:Fire_Dragon"
+  },
+  {
+    "name": "Death Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fb/%28Spell%29_Death_Prism.png",
+    "source": "https://web.archive.org/web/20250119202044id_/https://wiki.wizard101central.com/wiki/Spell:Death_Prism"
+  },
+  {
+    "name": "Skeletal Pirate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/46/%28Spell%29_Skeletal_Pirate.png",
+    "source": "https://web.archive.org/web/20240409061206id_/https://wiki.wizard101central.com/wiki/Spell:Skeletal_Pirate"
+  },
+  {
+    "name": "Irate Gnomes!",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Irate%20Gnomes%21.png",
+    "source": null
+  },
+  {
+    "name": "Imp",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/66/%28Spell%29_Imp.png",
+    "source": "https://web.archive.org/web/20250904030333id_/https://wiki.wizard101central.com/wiki/Spell:Imp"
+  },
+  {
+    "name": "Cat Thug",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/07/%28Item_Card%29_Cat_Thug.png",
+    "source": "https://web.archive.org/web/20240308084314id_/https://wiki.wizard101central.com/wiki/ItemCard:Cat_Thug"
+  },
+  {
+    "name": "Aiuchi",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Aiuchi.png",
+    "source": null
+  },
+  {
+    "name": "Ice Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5f/%28Item_Card%29_Ice_Trap.png",
+    "source": "https://web.archive.org/web/20230904001429id_/https://wiki.wizard101central.com/wiki/ItemCard:Ice_Trap"
+  },
+  {
+    "name": "Chimera",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/15/%28Spell%29_Chimera.png",
+    "source": "https://web.archive.org/web/20250831193731id_/https://wiki.wizard101central.com/wiki/Spell:Chimera"
+  },
+  {
+    "name": "Freezing Point",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Freezing%20Point.png",
+    "source": null
+  },
+  {
+    "name": "Spirit Blast",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/1d/%28Item_Card%29_Spirit_Blast.png",
+    "source": "https://web.archive.org/web/20250113123117id_/https://wiki.wizard101central.com/wiki/ItemCard:Spirit_Blast"
+  },
+  {
+    "name": "Lycian Chimera",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e5/%28Item_Card%29_Lycian_Chimera.png",
+    "source": "https://web.archive.org/web/20230923022208id_/https://wiki.wizard101central.com/wiki/ItemCard:Lycian_Chimera"
+  },
+  {
+    "name": "Leafstorm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a3/%28Item_Card%29_Leafstorm.png",
+    "source": "https://web.archive.org/web/20250126122056id_/https://wiki.wizard101central.com/wiki/ItemCard:Leafstorm"
+  },
+  {
+    "name": "Galvanic Field",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f9/%28Item_Card%29_Galvanic_Field.png",
+    "source": "https://web.archive.org/web/20240829113757id_/https://wiki.wizard101central.com/wiki/ItemCard:Galvanic_Field"
+  },
+  {
+    "name": "Ice Cat",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Ice%20Cat.png",
+    "source": null
+  },
+  {
+    "name": "Ice Hound",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e2/%28Item_Card%29_Ice_Hound.png",
+    "source": "https://web.archive.org/web/20250917224443id_/https://wiki.wizard101central.com/wiki/ItemCard:Ice_Hound"
+  },
+  {
+    "name": "Ice Bats",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/01/%28Item_Card%29_Ice_Bats.png",
+    "source": "https://web.archive.org/web/20240409061059id_/https://wiki.wizard101central.com/wiki/ItemCard:Ice_Bats"
+  },
+  {
+    "name": "Fire Cat",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/35/%28Item_Card%29_Fire_Cat.png",
+    "source": "https://web.archive.org/web/20240308084218id_/https://wiki.wizard101central.com/wiki/ItemCard:Fire_Cat"
+  },
+  {
+    "name": "Inferno Salamander",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/15/%28Item_Card%29_Inferno_Salamander.png",
+    "source": "https://web.archive.org/web/20240308084208id_/https://wiki.wizard101central.com/wiki/ItemCard:Inferno_Salamander"
+  },
+  {
+    "name": "Lord of the Squall",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Lord%20of%20the%20Squall.png",
+    "source": null
+  },
+  {
+    "name": "Strong",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/16/%28Spell%29_Strong.png",
+    "source": "https://web.archive.org/web/20250904174308id_/https://wiki.wizard101central.com/wiki/Spell:Strong"
+  },
+  {
+    "name": "Locust Swarm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b7/%28Spell%29_Locust_Swarm.png",
+    "source": "https://web.archive.org/web/20250902141100id_/https://wiki.wizard101central.com/wiki/Spell:Locust_Swarm"
+  },
+  {
+    "name": "Headless Horseman",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/65/%28Spell%29_Headless_Horseman.png",
+    "source": "https://web.archive.org/web/20250905020522id_/https://wiki.wizard101central.com/wiki/Spell:Headless_Horseman"
+  },
+  {
+    "name": "Jade Oni (Attack)",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/ca/%28Item_Card%29_Jade_Oni_%28Attack%29.png",
+    "source": "https://web.archive.org/web/20240226002823id_/https://wiki.wizard101central.com/wiki/ItemCard:Jade_Oni_(Attack)"
+  },
+  {
+    "name": "Inspiration",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Inspiration.png",
+    "source": null
+  },
+  {
+    "name": "Regenerate",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/a5/%28Item_Card%29_Regenerate.png",
+    "source": "https://web.archive.org/web/20240409061219id_/https://wiki.wizard101central.com/wiki/ItemCard:Regenerate"
+  },
+  {
+    "name": "Berzerk Kraken",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Berzerk%20Kraken.png",
+    "source": null
+  },
+  {
+    "name": "Weakness",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/96/%28Item_Card%29_Weakness.png",
+    "source": "https://web.archive.org/web/20240308084159id_/https://wiki.wizard101central.com/wiki/ItemCard:Weakness"
+  },
+  {
+    "name": "Lifespear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/82/%28Item_Card%29_Lifespear.png",
+    "source": "https://web.archive.org/web/20240409061147id_/https://wiki.wizard101central.com/wiki/ItemCard:Lifespear"
+  },
+  {
+    "name": "Krokotillian",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Krokotillian.png",
+    "source": null
+  },
+  {
+    "name": "Leprechaun",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/ea/%28Spell%29_Leprechaun.png",
+    "source": "https://web.archive.org/web/20240226002802id_/https://wiki.wizard101central.com/wiki/Spell:Leprechaun"
+  },
+  {
+    "name": "Medusa",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/06/%28Spell%29_Medusa.png",
+    "source": "https://web.archive.org/web/20250913101731id_/https://wiki.wizard101central.com/wiki/Spell:Medusa"
+  },
+  {
+    "name": "Sirens",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/87/%28Spell%29_Sirens.png",
+    "source": "https://web.archive.org/web/20250819043112id_/https://wiki.wizard101central.com/wiki/Spell:Sirens"
+  },
+  {
+    "name": "Death Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2d/%28Item_Card%29_Death_Shield.png",
+    "source": "https://web.archive.org/web/20240121113325id_/https://wiki.wizard101central.com/wiki/ItemCard:Death_Shield"
+  },
+  {
+    "name": "Life Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b9/%28Spell%29_Life_Prism.png",
+    "source": "https://web.archive.org/web/20240121101440id_/https://wiki.wizard101central.com/wiki/Spell:Life_Prism"
+  },
+  {
+    "name": "Life Banshee",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7d/%28Item_Card%29_Life_Banshee.png",
+    "source": "https://web.archive.org/web/20250902024606id_/https://wiki.wizard101central.com/wiki/ItemCard:Life_Banshee"
+  },
+  {
+    "name": "Sprite",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/4b/%28Spell%29_Sprite.png",
+    "source": "https://web.archive.org/web/20250902112328id_/https://wiki.wizard101central.com/wiki/Spell:Sprite"
+  },
+  {
+    "name": "Spirited Minotaur",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/5e/%28Item_Card%29_Spirited_Minotaur.png",
+    "source": "https://web.archive.org/web/20240308083935id_/https://wiki.wizard101central.com/wiki/ItemCard:Spirited_Minotaur"
+  },
+  {
+    "name": "Life Bat",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Life%20Bat.png",
+    "source": null
+  },
+  {
+    "name": "Lightning Bats",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8d/%28Spell%29_Lightning_Bats.png",
+    "source": "https://web.archive.org/web/20250829005701id_/https://wiki.wizard101central.com/wiki/Spell:Lightning_Bats"
+  },
+  {
+    "name": "Lightning Strike",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/7d/%28Spell%29_Lightning_Strike.png",
+    "source": "https://web.archive.org/web/20250906141146id_/https://wiki.wizard101central.com/wiki/Spell:Lightning_Strike"
+  },
+  {
+    "name": "Giant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fe/%28Item_Card%29_Giant.png",
+    "source": "https://web.archive.org/web/20240613181815id_/https://wiki.wizard101central.com/wiki/ItemCard:Giant"
+  },
+  {
+    "name": "Stampeding Mammoth",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/75/%28Item_Card%29_Stampeding_Mammoth.png",
+    "source": "https://web.archive.org/web/20230923024343id_/https://wiki.wizard101central.com/wiki/ItemCard:Stampeding_Mammoth"
+  },
+  {
+    "name": "Cleanse Ward",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/15/%28Item_Card%29_Cleanse_Ward.png",
+    "source": "https://web.archive.org/web/20231216235114id_/https://wiki.wizard101central.com/wiki/ItemCard:Cleanse_Ward"
+  },
+  {
+    "name": "Dark Sprite",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/39/%28Item_Card%29_Dark_Sprite.png",
+    "source": "https://web.archive.org/web/20240308085051id_/https://wiki.wizard101central.com/wiki/ItemCard:Dark_Sprite"
+  },
+  {
+    "name": "Vampire",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/2f/%28Spell%29_Vampire.png",
+    "source": "https://web.archive.org/web/20250828085756id_/https://wiki.wizard101central.com/wiki/Spell:Vampire"
+  },
+  {
+    "name": "Thieving Dragon",
+    "icon": "https://wiki.wizard101central.com/wiki/images/e/e4/%28Spell%29_Thieving_Dragon.png",
+    "source": "https://web.archive.org/web/20250605093626id_/https://wiki.wizard101central.com/wiki/Spell:Thieving_Dragon"
+  },
+  {
+    "name": "Seraph",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3d/%28Item_Card%29_Seraph.png",
+    "source": "https://web.archive.org/web/20240308084337id_/https://wiki.wizard101central.com/wiki/ItemCard:Seraph"
+  },
+  {
+    "name": "Dr. Von%27s Monster",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/48/%28Spell%29_Dr._Von%27s_Monster.png",
+    "source": "https://web.archive.org/web/20250909114545id_/https://wiki.wizard101central.com/wiki/Spell:Dr._Von%27s_Monster"
+  },
+  {
+    "name": "Yellow Troll",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0f/%28Spell%29_Yellow_Troll.png",
+    "source": "https://web.archive.org/web/20250910072643id_/https://wiki.wizard101central.com/wiki/Spell:Yellow_Troll"
+  },
+  {
+    "name": "Myth Leprechaun",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0c/%28Item_Card%29_Myth_Leprechaun.png",
+    "source": "https://web.archive.org/web/20240318125340id_/https://wiki.wizard101central.com/wiki/ItemCard:Myth_Leprechaun"
+  },
+  {
+    "name": "Sap Health",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Sap%20Health.png",
+    "source": null
+  },
+  {
+    "name": "Earthquake",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/fd/%28Item_Card%29_Earthquake.png",
+    "source": "https://web.archive.org/web/20240308083921id_/https://wiki.wizard101central.com/wiki/ItemCard:Earthquake"
+  },
+  {
+    "name": "Scarecrow",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/68/%28Spell%29_Scarecrow.png",
+    "source": "https://web.archive.org/web/20250906032348id_/https://wiki.wizard101central.com/wiki/Spell:Scarecrow"
+  },
+  {
+    "name": "Snow Drift",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bb/%28Spell%29_Snow_Drift.png",
+    "source": "https://web.archive.org/web/20231108031550id_/https://wiki.wizard101central.com/wiki/Spell:Snow_Drift"
+  },
+  {
+    "name": "Black Mantle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f1/%28Spell%29_Black_Mantle.png",
+    "source": "https://web.archive.org/web/20240913170750id_/https://wiki.wizard101central.com/wiki/Spell:Black_Mantle"
+  },
+  {
+    "name": "Ship of Fools",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/8a/%28Item_Card%29_Ship_of_Fools.png",
+    "source": "https://web.archive.org/web/20240409061120id_/https://wiki.wizard101central.com/wiki/ItemCard:Ship_of_Fools"
+  },
+  {
+    "name": "Dragonspear",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d7/%28Spell%29_Dragonspear.png",
+    "source": "https://web.archive.org/web/20240205171751id_/https://wiki.wizard101central.com/wiki/Spell:Dragonspear"
+  },
+  {
+    "name": "Mass Myth Prism",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bd/%28Item_Card%29_Mass_Myth_Prism.png",
+    "source": "https://web.archive.org/web/20250831113610id_/https://wiki.wizard101central.com/wiki/ItemCard:Mass_Myth_Prism"
+  },
+  {
+    "name": "Lord of Blazes",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Lord%20of%20Blazes.png",
+    "source": null
+  },
+  {
+    "name": "Combustion",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/bd/%28Spell%29_Combustion.png",
+    "source": "https://web.archive.org/web/20231216235142id_/https://wiki.wizard101central.com/wiki/Spell:Combustion"
+  },
+  {
+    "name": "Red Ghost",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Red%20Ghost.png",
+    "source": null
+  },
+  {
+    "name": "Tempest",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d6/%28Spell%29_Tempest.png",
+    "source": "https://web.archive.org/web/20250829181638id_/https://wiki.wizard101central.com/wiki/Spell:Tempest"
+  },
+  {
+    "name": "Grand Phoenix",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Grand%20Phoenix.png",
+    "source": null
+  },
+  {
+    "name": "Woolly Mammoth",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/06/%28Spell%29_Woolly_Mammoth.png",
+    "source": "https://web.archive.org/web/20241201083159id_/https://wiki.wizard101central.com/wiki/Spell:Woolly_Mammoth"
+  },
+  {
+    "name": "Silencing Wall",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Silencing%20Wall.png",
+    "source": null
+  },
+  {
+    "name": "Thermic Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/b/b2/%28Spell%29_Thermic_Shield.png",
+    "source": "https://web.archive.org/web/20250907141524id_/https://wiki.wizard101central.com/wiki/Spell:Thermic_Shield"
+  },
+  {
+    "name": "Burning Rampage",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/aa/%28Spell%29_Burning_Rampage.png",
+    "source": "https://web.archive.org/web/20250903191333id_/https://wiki.wizard101central.com/wiki/Spell:Burning_Rampage"
+  },
+  {
+    "name": "Fire Shark",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/98/%28Spell%29_Fire_Shark.png",
+    "source": "https://web.archive.org/web/20250901162459id_/https://wiki.wizard101central.com/wiki/Spell:Fire_Shark"
+  },
+  {
+    "name": "Choke",
+    "icon": "https://wiki.wizard101central.com/wiki/images/4/44/%28Spell%29_Choke.png",
+    "source": "https://web.archive.org/web/20240915212340id_/https://wiki.wizard101central.com/wiki/Spell:Choke"
+  },
+  {
+    "name": "Thunderstorm",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Thunderstorm.png",
+    "source": null
+  },
+  {
+    "name": "Curse",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/75/%28Item_Card%29_Curse.png",
+    "source": "https://web.archive.org/web/20250908100118id_/https://wiki.wizard101central.com/wiki/ItemCard:Curse"
+  },
+  {
+    "name": "Storm Beetle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/78/%28Item_Card%29_Storm_Beetle.png",
+    "source": "https://web.archive.org/web/20231010121353id_/https://wiki.wizard101central.com/wiki/ItemCard:Storm_Beetle"
+  },
+  {
+    "name": "Tundra Lord",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Tundra%20Lord.png",
+    "source": null
+  },
+  {
+    "name": "Katabatic Wind",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ac/%28Spell%29_Katabatic_Wind.png",
+    "source": "https://web.archive.org/web/20240326004118id_/https://wiki.wizard101central.com/wiki/Spell:Katabatic_Wind"
+  },
+  {
+    "name": "Fire Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Shield.png",
+    "source": null
+  },
+  {
+    "name": "Growzone Layer",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/18/%28Spell%29_Growzone_Layer.png",
+    "source": "https://web.archive.org/web/20250803125319id_/https://wiki.wizard101central.com/wiki/Spell:Growzone_Layer"
+  },
+  {
+    "name": "Red Banshee",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/55/%28Spell%29_Red_Banshee.png",
+    "source": "https://web.archive.org/web/20250906120748id_/https://wiki.wizard101central.com/wiki/Spell:Red_Banshee"
+  },
+  {
+    "name": "Myth Shield",
+    "icon": "https://wiki.wizard101central.com/wiki/images/f/f5/%28Spell%29_Myth_Shield.png",
+    "source": "https://web.archive.org/web/20250909083226id_/https://wiki.wizard101central.com/wiki/Spell:Myth_Shield"
+  },
+  {
+    "name": "Monstrous",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/3e/%28Spell%29_Monstrous.png",
+    "source": "https://web.archive.org/web/20250909230517id_/https://wiki.wizard101central.com/wiki/Spell:Monstrous"
+  },
+  {
+    "name": "Naphtha Scarab",
+    "icon": "https://wiki.wizard101central.com/wiki/images/7/70/%28Spell%29_Naphtha_Scarab.png",
+    "source": "https://web.archive.org/web/20241127035330id_/https://wiki.wizard101central.com/wiki/Spell:Naphtha_Scarab"
+  },
+  {
+    "name": "Sacrifice",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/90/%28Spell%29_Sacrifice.png",
+    "source": "https://web.archive.org/web/20240409061210id_/https://wiki.wizard101central.com/wiki/Spell:Sacrifice"
+  },
+  {
+    "name": "Krokopatra",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ad/%28Item_Card%29_Krokopatra.png",
+    "source": "https://web.archive.org/web/20240308084735id_/https://wiki.wizard101central.com/wiki/ItemCard:Krokopatra"
+  },
+  {
+    "name": "Quench",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Quench.png",
+    "source": null
+  },
+  {
+    "name": "Erosion",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Erosion.png",
+    "source": null
+  },
+  {
+    "name": "Magma Man",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c2/%28Spell%29_Magma_Man.png",
+    "source": "https://web.archive.org/web/20250904180723id_/https://wiki.wizard101central.com/wiki/Spell:Magma_Man"
+  },
+  {
+    "name": "Star Blade",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/28/%28Item_Card%29_Star_Blade.png",
+    "source": "https://web.archive.org/web/20240121113216id_/https://wiki.wizard101central.com/wiki/ItemCard:Star_Blade"
+  },
+  {
+    "name": "Lernaean Hydra",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Lernaean%20Hydra.png",
+    "source": null
+  },
+  {
+    "name": "Frost Snake",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/51/%28Item_Card%29_Frost_Snake.png",
+    "source": "https://web.archive.org/web/20250919141732id_/https://wiki.wizard101central.com/wiki/ItemCard:Frost_Snake"
+  },
+  {
+    "name": "Snowball Strike",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Snowball%20Strike.png",
+    "source": null
+  },
+  {
+    "name": "Arcticzilla",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Arcticzilla.png",
+    "source": null
+  },
+  {
+    "name": "Snow Shark",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Snow%20Shark.png",
+    "source": null
+  },
+  {
+    "name": "Clockwork Spider",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Clockwork%20Spider.png",
+    "source": null
+  },
+  {
+    "name": "Unstoppable",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/82/%28Spell%29_Unstoppable.png",
+    "source": "https://web.archive.org/web/20250904062216id_/https://wiki.wizard101central.com/wiki/Spell:Unstoppable"
+  },
+  {
+    "name": "Spiritual Tribunal",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/30/%28Spell%29_Spiritual_Tribunal.png",
+    "source": "https://web.archive.org/web/20250903111219id_/https://wiki.wizard101central.com/wiki/Spell:Spiritual_Tribunal"
+  },
+  {
+    "name": "Spectral Blast",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/26/%28Item_Card%29_Spectral_Blast.png",
+    "source": "https://web.archive.org/web/20240214174144id_/https://wiki.wizard101central.com/wiki/ItemCard:Spectral_Blast"
+  },
+  {
+    "name": "Alhazred%27s Swarm",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/01/%28Item_Card%29_Alhazred%27s_Swarm.png",
+    "source": "https://web.archive.org/web/20230923023440id_/https://wiki.wizard101central.com/wiki/ItemCard:Alhazred%27s_Swarm"
+  },
+  {
+    "name": "Storm Cat",
+    "icon": "https://wiki.wizard101central.com/wiki/images/8/88/%28Spell%29_Storm_Cat.png",
+    "source": "https://web.archive.org/web/20250911230332id_/https://wiki.wizard101central.com/wiki/Spell:Storm_Cat"
+  },
+  {
+    "name": "Storm Hound",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Storm%20Hound.png",
+    "source": null
+  },
+  {
+    "name": "Storm Serpent",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Storm%20Serpent.png",
+    "source": null
+  },
+  {
+    "name": "Storman",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Storman.png",
+    "source": null
+  },
+  {
+    "name": "Astraphobia",
+    "icon": "https://wiki.wizard101central.com/wiki/images/a/ad/%28Spell%29_Astraphobia.png",
+    "source": "https://web.archive.org/web/20250919105714id_/https://wiki.wizard101central.com/wiki/Spell:Astraphobia"
+  },
+  {
+    "name": "Catalan",
+    "icon": "https://wiki.wizard101central.com/wiki/images/d/d2/%28Spell%29_Catalan.png",
+    "source": "https://web.archive.org/web/20250906102005id_/https://wiki.wizard101central.com/wiki/Spell:Catalan"
+  },
+  {
+    "name": "Brimstone Revenant",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/c1/%28Spell%29_Brimstone_Revenant.png",
+    "source": "https://web.archive.org/web/20250912164231id_/https://wiki.wizard101central.com/wiki/Spell:Brimstone_Revenant"
+  },
+  {
+    "name": "Hammer of Thor",
+    "icon": "https://wiki.wizard101central.com/wiki/images/9/9d/%28Spell%29_Hammer_of_Thor.png",
+    "source": "https://web.archive.org/web/20250911084344id_/https://wiki.wizard101central.com/wiki/Spell:Hammer_of_Thor"
+  },
+  {
+    "name": "Elemental Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/3/35/%28Spell%29_Elemental_Trap.png",
+    "source": "https://web.archive.org/web/20250910131357id_/https://wiki.wizard101central.com/wiki/Spell:Elemental_Trap"
+  },
+  {
+    "name": "Heartbeat",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Heartbeat.png",
+    "source": null
+  },
+  {
+    "name": "Polymorph Treant",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Polymorph%20Treant.png",
+    "source": null
+  },
+  {
+    "name": "Troll",
+    "icon": "https://wiki.wizard101central.com/wiki/images/2/27/%28Spell%29_Troll.png",
+    "source": "https://web.archive.org/web/20250905195723id_/https://wiki.wizard101central.com/wiki/Spell:Troll"
+  },
+  {
+    "name": "Gnomes!",
+    "icon": "https://wiki.wizard101central.com/wiki/images/6/6d/%28Spell%29_Gnomes%21.png",
+    "source": "https://web.archive.org/web/20250918052950id_/https://wiki.wizard101central.com/wiki/Spell:Gnomes!"
+  },
+  {
+    "name": "Lord Humongofrog",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Lord%20Humongofrog.png",
+    "source": null
+  },
+  {
+    "name": "Fire Scorch",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20Fire%20Scorch.png",
+    "source": null
+  },
+  {
+    "name": "Strangle",
+    "icon": "https://wiki.wizard101central.com/wiki/images/c/ce/%28Spell%29_Strangle.png",
+    "source": "https://web.archive.org/web/20240121110000id_/https://wiki.wizard101central.com/wiki/Spell:Strangle"
+  },
+  {
+    "name": "Storm Trap",
+    "icon": "https://wiki.wizard101central.com/wiki/images/1/19/%28Spell%29_Storm_Trap.png",
+    "source": "https://web.archive.org/web/20250830214004id_/https://wiki.wizard101central.com/wiki/Spell:Storm_Trap"
+  },
+  {
+    "name": "White Rat Magician",
+    "icon": "https://wiki.wizard101central.com/wiki/Special:FilePath/%28Item%20Card%29%20White%20Rat%20Magician.png",
+    "source": null
+  },
+  {
+    "name": "Catch of the Day",
+    "icon": "https://wiki.wizard101central.com/wiki/images/5/57/%28Item_Card%29_Catch_of_the_Day.png",
+    "source": "https://web.archive.org/web/20250611022929id_/https://wiki.wizard101central.com/wiki/ItemCard:Catch_of_the_Day"
+  },
+  {
+    "name": "Lord of Winter",
+    "icon": "https://wiki.wizard101central.com/wiki/images/0/0a/%28Spell%29_Lord_of_Winter.png",
+    "source": "https://web.archive.org/web/20250906141424id_/https://wiki.wizard101central.com/wiki/Spell:Lord_of_Winter"
+  }
+]

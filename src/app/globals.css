@@ -1,26 +1,246 @@
-@import "tailwindcss";
+/* ——— Base ——— */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Uncial+Antiqua&display=swap');
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-deep: #0b1430;
+  --bg-sky: #152a6a;
+  --gold: #d6b35d;
+  --gold-dark: #a6842f;
+  --blue: #2a7bd0;
+  --parchment: #f3ecd7;
+  --parchment-ink: #1e1b12;
+  --panel-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+* { box-sizing: border-box; }
+html, body, #__next { height: 100%; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: #e9efff;
+  font-family: "Cinzel", system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  background:
+    radial-gradient(circle at 20% 15%, rgba(255,255,255,0.12) 0 2px, transparent 3px) 0 0/180px 180px,
+    radial-gradient(circle at 80% 75%, rgba(255,255,255,0.10) 0 1.5px, transparent 2.5px) 0 0/220px 220px,
+    linear-gradient(180deg, var(--bg-sky), var(--bg-deep) 65%);
+}
+
+a {
+  color: var(--gold);
+  text-decoration-color: rgba(214,179,93,0.4);
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ——— Page + Headings ——— */
+.page {
+  width: 100%;
+  padding: 10px;
+}
+
+.heading {
+  font-family: "Uncial Antiqua", "Cinzel", Georgia, serif;
+  color: var(--gold);
+  text-shadow: 0 1px 0 #000, 0 2px 6px rgba(0,0,0,0.45);
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.heading-xl {
+  font-size: clamp(28px, 4vw, 44px);
+  margin: 8px 0 18px;
+}
+
+.heading-md {
+  font-size: clamp(18px, 2.2vw, 24px);
+  margin: 0 0 10px;
+  color: #f6e7b1;
+}
+
+/* ——— Panel (parchment box) ——— */
+.panel {
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.06)), var(--parchment);
+  color: var(--parchment-ink);
+  border: 1px solid rgba(166,132,47,0.55);
+  border-radius: 10px;
+  box-shadow: var(--panel-shadow);
+  padding: 16px 18px;
+  margin: 16px 0;
+}
+
+/* ——— Collapsible Panels ——— */
+.collapsible {
+  margin: 16px 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.collapsible > summary {
+  list-style: none;
+  cursor: pointer;
+  display: block;
+  padding: 12px 16px;
+  margin: 0;
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.06)), var(--parchment);
+  color: var(--gold-dark);
+  border: 1px solid rgba(166,132,47,0.55);
+  border-radius: 10px;
+  box-shadow: var(--panel-shadow);
+  font-weight: 700;
+  text-shadow: none;
+}
+
+.collapsible > summary::-webkit-details-marker { display: none; }
+
+.collapsible > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 8px;
+  transform: translateY(-1px);
+  transition: transform 0.15s ease;
+  color: var(--gold-dark);
+}
+
+.collapsible[open] > summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  box-shadow: none;
+}
+
+.collapsible[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.collapsible-content {
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(0,0,0,0.06)), var(--parchment);
+  color: var(--parchment-ink);
+  border: 1px solid rgba(166,132,47,0.55);
+  border-top: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: var(--panel-shadow);
+  padding: 16px 18px;
+}
+
+/* ——— Wizard101 Control Panel ——— */
+.controls {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.controls .row {
+  display: grid;
+  gap: 12px;
+}
+
+.controls label {
+  display: grid;
+  gap: 8px;
+  justify-items: center;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.controls label > span {
+  color: var(--parchment-ink);
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  text-transform: capitalize;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.15);
+}
+
+/* Range Sliders */
+.controls input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 24px;
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.controls input[type="range"]::-webkit-slider-runnable-track {
+  height: 10px;
+  border-radius: 10px;
+  background: linear-gradient(90deg, var(--gold) 0%, var(--blue) 100%);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);
+}
+
+.controls input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid var(--gold);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  margin-top: -4px; /* centers the thumb */
+  transition: transform 0.15s ease;
+}
+
+.controls input[type="range"]:active::-webkit-slider-thumb {
+  transform: scale(1.06);
+}
+
+.controls input[type="range"]::-moz-range-track {
+  height: 10px;
+  border-radius: 10px;
+  background: linear-gradient(90deg, var(--gold) 0%, var(--blue) 100%);
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);
+}
+
+.controls input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid var(--gold);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+  transition: transform 0.15s ease;
+}
+
+.controls input[type="range"]:active::-moz-range-thumb {
+  transform: scale(1.06);
+}
+
+/* Tabs Dashbar */
+.dashbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin: 8px auto 18px;
+  width: max-content;
+  padding: 6px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(0,0,0,0.08)), var(--parchment);
+  border: 1px solid rgba(166,132,47,0.55);
+  border-radius: 999px;
+  box-shadow: var(--panel-shadow);
+}
+
+.dashbar .tab {
+  appearance: none;
+  border: 0;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  color: var(--gold-dark);
+  background: transparent;
+  transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.dashbar .tab:hover {
+  background: rgba(0,0,0,0.06);
+}
+
+.dashbar .tab.active {
+  color: var(--parchment-ink);
+  background: linear-gradient(180deg, rgba(255,255,255,0.25), rgba(0,0,0,0.07));
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);
 }
