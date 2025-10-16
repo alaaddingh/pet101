@@ -12,10 +12,9 @@ export default function HomeAlias() {
   return (
     <main className="page" style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}>
       {/* Title */}
-      <header className="w-full flex justify-center items-center py-4">
-        <h1 className="heading heading-xl text-center flex justify-center">Pet101</h1>
-      <h1 className="heading heading-md text-center flex justify-center">The unofficial Wizard101 Analytics tool for your Pets!</h1>
-
+      <header className="w-full flex flex-col items-center py-4" style={{ gap: 6 }}>
+        <h1 className="heading heading-xl text-center">Pet101</h1>
+        <h2 className="heading heading-md text-center">The unofficial Wizard101 analytics tool for your pets</h2>
       </header>
 
       <Navbar active={tab} onChange={setTab} />

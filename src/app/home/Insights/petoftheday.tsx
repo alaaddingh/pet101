@@ -134,7 +134,8 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
     return {
       $schema: "https://vega.github.io/schema/vega-lite/v5.json",
       description: "Compact Gaussian bump with ±1σ box, mean & pet markers",
-      width: 480,
+      width: "container",
+      autosize: { type: "fit", contains: "padding" },
       height: 160,
       data: {
         values: Array.from({ length: 201 }).map((_, i) => ({ x: i * 0.5 })), // 0..100
@@ -241,13 +242,7 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
       </div>
 
       {/* Top: image + spells */}
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "minmax(220px, 280px) 1fr",
-          gap: 12,
-        }}
-      >
+      <div className="pod-top">
         {/* Pet image */}
         <div
           style={{
@@ -298,10 +293,9 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
     alt={sp.name}
     width={150}
     height={200}
-    sizes="100px"
+    sizes="(max-width: 600px) 30vw, 120px"
     className="inline-block rounded-[3px]"
     loading="lazy"
-    
   />
 ) : (
   <span aria-hidden className="inline-block h-5 w-5 rounded-[3px] border border-gray-300 bg-gray-200" />
@@ -315,24 +309,14 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
         </div>
       </div>
 
-      <div
-        className="panel"
-        style={{
-          maxWidth: 500,
-          padding: 10,
-          display: "grid",
-          gridTemplateColumns: "auto 1fr",
-          alignItems: "center",
-          gap: 14,
-        }}
-      >
+      <div className="panel twin-grid" style={{ padding: 10 }}>
         {/* left: chart + legend (kept compact box) */}
         <div>
           <div style={{ fontWeight: 900, color: "var(--parchment-ink)", marginBottom: 6 }}>
             Pedigree vs {school} Average
           </div>
           {chartSpec ? (
-            <div style={{ width: 480 }}>
+            <div>
               <Chart spec={chartSpec} />
             </div>
           ) : (
@@ -347,14 +331,12 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
         {/* right: percentile statement */}
         <div
           style={{
-            marginLeft: 100,
             justifySelf: "stretch",
             border: "1px solid rgba(166,132,47,0.45)",
             borderRadius: 10,
             padding: "14px 16px",
             color: "var(--parchment-ink)",
             display: "grid",
-            minWidth: 300,
             gap: 6,
           }}
         >
@@ -373,7 +355,7 @@ export default function PetOfTheDay({ Pets, pet: providedPet, showLabel = true }
       </div>
 
       {/* Bottom: talents & derby */}
-      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 12 }}>
+      <div className="bottom-grid">
         {/* Talents */}
         <div className="panel" style={{ padding: 10, display: "grid", gap: 8 }}>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
